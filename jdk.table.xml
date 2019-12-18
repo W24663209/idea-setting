@@ -1,0 +1,37 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.2" />
+      <homePath value="$USER_HOME$/anaconda3/bin/python3.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/lib-dynload" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/aeosa" type="simple" />
+            <root url="jar://$USER_HOME$/anaconda3/lib/python3.7/site-packages/baidu_aip-2.2.4.0-py3.7.egg!/" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/tts-0.1-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/six-1.13.0-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/fastAutoTest-2.2.2-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/bidict-0.18.3-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/uiautomator-0.3.6-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/websocket_client-0.56.0-py3.7.egg" type="simple" />
+            <root url="file://$USER_HOME$/Library/Caches/PyCharm2019.3/python_stubs/-1315224741" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/plugins/python/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
