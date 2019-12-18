@@ -1,13 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="生产完成" />
-      <item value="生产完成按钮是否显示" />
+      <item value="Wk Activity Image Dao" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="1" />
       </map>
     </option>
   </component>
@@ -18,6 +17,7 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="keepFormat" value="true" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
   </component>
