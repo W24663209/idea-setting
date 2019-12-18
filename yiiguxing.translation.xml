@@ -1,22 +1,18 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Padding" />
       <item value="生产完成" />
       <item value="生产完成按钮是否显示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="3" />
-        <entry key="ENGLISH" value="3" />
+        <entry key="CHINESE" value="5" />
+        <entry key="ENGLISH" value="6" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
