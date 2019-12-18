@@ -1,6 +1,12 @@
 <keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
   <action id="ConfigureIcs">
     <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="SaveAs" />
   <action id="android.deploy.ApplyChanges">
