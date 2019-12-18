@@ -1,14 +1,15 @@
 <keymap version="1" name="Mac OS X copy" parent="Mac OS X">
+  <action id="$Delete">
+    <keyboard-shortcut first-keystroke="delete" />
+    <keyboard-shortcut first-keystroke="back_space" />
+  </action>
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="android.deploy.ApplyChanges">
-    <keyboard-shortcut first-keystroke="ctrl meta r" />
-  </action>
-  <action id="android.deploy.CodeSwap">
-    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="meta back_space" />
   </action>
 </keymap>
