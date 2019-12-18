@@ -1,0 +1,27 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="mail" />
+      <item value="post" />
+      <item value="host" />
+      <item value="params" />
+      <item value="JSESSIONID" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="1" />
+        <entry key="ENGLISH" value="2" />
+      </map>
+    </option>
+  </component>
+  <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
+    <option name="ignoreRegExp" value="" />
+    <option name="showStatusIcon" value="false" />
+    <option name="showWordForms" value="false" />
+  </component>
+</application>
