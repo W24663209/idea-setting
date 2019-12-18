@@ -6,9 +6,6 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
-  <action id="ConfigureIcs">
-    <keyboard-shortcut first-keystroke="shift meta s" />
-  </action>
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
