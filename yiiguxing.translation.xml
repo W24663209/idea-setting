@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="status code" />
       <item value="session" />
       <item value="Padding" />
       <item value="生产完成" />
@@ -8,8 +9,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="5" />
-        <entry key="ENGLISH" value="6" />
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
       </map>
     </option>
   </component>
