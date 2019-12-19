@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Value changed: python program exit" />
       <item value="监听" />
       <item value="alert is not defined" />
       <item value="alert" />
@@ -49,7 +50,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="47" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
