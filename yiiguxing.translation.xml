@@ -1,67 +1,43 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="脚手架" />
-      <item value="stroke Width" />
-      <item value="Center" />
-      <item value="Sized Box" />
-      <item value="app Bar" />
+      <item value="内容" />
+      <item value="home" />
+      <item value="showinfo" />
+      <item value="current Index" />
       <item value="Scaffold" />
-      <item value="Switch" />
-      <item value="adaptive" />
-      <item value="child" />
-      <item value="Container" />
-      <item value="dot Vertical Padding" />
-      <item value="indicator Bg Padding" />
-      <item value="dot Increased Color" />
-      <item value="show Indicator" />
-      <item value="overlay Shadow" />
-      <item value="move Indicator From Bottom" />
-      <item value="no Radius For Indicator" />
-      <item value="overlay Shadow Colors" />
-      <item value="dot Size" />
-      <item value="dot Spacing" />
-      <item value="dot Color" />
-      <item value="border Radius" />
-      <item value="dot Bg Color" />
+      <item value="Error connecting to the service protocol: failed to connect to http://127.0.0.1:61545/COwJPZ-FTMM=/" />
+      <item value="I/flutter (16829): The method '_debugTypesAreRight' was called on null." />
+      <item value="Travel Page" />
+      <item value="My Page" />
+      <item value="当前" />
+      <item value="_active Color" />
+      <item value="Center" />
+      <item value="Floating Action Button" />
+      <item value="init State" />
+      <item value="dynamic" />
+      <item value="Could not resolve all artifacts for configuration ':flutter_webview_plugin:classpath'." />
+      <item value="asset" />
+      <item value="Padding" />
+      <item value="lerp" />
       <item value="Widget" />
-      <item value="Exact Asset Image" />
-      <item value="fit" />
-      <item value="The argument type 'Image' can't be assigned to the parameter type 'DecorationImage'." />
-      <item value="auto Play Animation Duration" />
-      <item value="auto Play Interval" />
-      <item value="margin" />
-      <item value="Text Style" />
-      <item value="viewport Fraction" />
-      <item value="initial Page" />
-      <item value="enable Infinite Scroll" />
-      <item value="real Page" />
-      <item value="auto Play" />
-      <item value="pause Auto Play On Touch" />
-      <item value="page Controller" />
-      <item value="scroll Direction" />
-      <item value="scroll Physics" />
-      <item value="on Page Changed" />
-      <item value="this.on Page Changed," />
-      <item value="{@required this.items, this.height, this.aspectRatio: 16 / 9, this.viewportFraction: 0.8, this.initialPage: 0, int realPage: 10000, this.enableInfiniteScroll: true, this.reverse: false, this.autoPlay: false, this.autoPlayInterval: const Duration(seconds: 4), this.autoPlayAnimationDuration = const Duration(milliseconds: 800), this.autoPlayCurve: Curves.fastOutSlowIn, this.pauseAutoPlayOnTouch, this.enlargeCenterPage = false, this.onPageChanged, this.scrollPhysics, this.scrollDirection: Axis.horizontal}) : this.realPage = enableInfiniteScroll ? realPage + initialPage : initialPage, this.pageController = PageController( viewportFraction: viewportFraction, initialPage: enableInfiniteScroll ? realPage + initialPage : initialPage, );" />
-      <item value="reverse" />
-      <item value="Decoration Image" />
-      <item value="transform" />
-      <item value="constraints" />
-      <item value="foreground Decoration" />
-      <item value="decoration" />
-      <item value="padding" />
+      <item value="生产完成" />
+      <item value="生产完成按钮是否显示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="122" />
-        <entry key="ENGLISH" value="122" />
-        <entry key="SWEDISH" value="1" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
