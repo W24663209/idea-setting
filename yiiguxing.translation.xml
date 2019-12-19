@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="scroll Notification" />
       <item value="Notification Listener" />
       <item value="Loading Container" />
       <item value="remove Padding" />
@@ -45,8 +46,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="53" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
