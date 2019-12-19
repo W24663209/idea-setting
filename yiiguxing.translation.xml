@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ord() expected string of length 1, but int found" />
+      <item value="but string of length 0 found" />
+      <item value="befor" />
       <item value="withdraw" />
       <item value="Tk" />
       <item value="options" />
@@ -41,8 +44,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="40" />
-        <entry key="ENGLISH" value="41" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="45" />
         <entry key="ESTONIAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
