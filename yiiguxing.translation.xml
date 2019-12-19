@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="parent" />
+      <item value="contents" />
+      <item value="retry" />
+      <item value="target language code" />
       <item value="ascii" />
       <item value="内容" />
       <item value="home" />
@@ -27,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
