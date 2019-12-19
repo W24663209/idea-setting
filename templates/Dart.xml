@@ -1,0 +1,7 @@
+<templateSet group="Dart">
+  <template name="/**" value="/**&#10; *${USER}&#10; **/&#10;" shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="DART" value="true" />
+    </context>
+  </template>
+</templateSet>
