@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="app Bar" />
+      <item value="Scaffold" />
+      <item value="Switch" />
+      <item value="adaptive" />
+      <item value="child" />
+      <item value="Container" />
       <item value="dot Vertical Padding" />
       <item value="indicator Bg Padding" />
       <item value="dot Increased Color" />
@@ -15,7 +21,6 @@
       <item value="border Radius" />
       <item value="dot Bg Color" />
       <item value="Widget" />
-      <item value="child" />
       <item value="Exact Asset Image" />
       <item value="fit" />
       <item value="The argument type 'Image' can't be assigned to the parameter type 'DecorationImage'." />
@@ -37,7 +42,6 @@
       <item value="{@required this.items, this.height, this.aspectRatio: 16 / 9, this.viewportFraction: 0.8, this.initialPage: 0, int realPage: 10000, this.enableInfiniteScroll: true, this.reverse: false, this.autoPlay: false, this.autoPlayInterval: const Duration(seconds: 4), this.autoPlayAnimationDuration = const Duration(milliseconds: 800), this.autoPlayCurve: Curves.fastOutSlowIn, this.pauseAutoPlayOnTouch, this.enlargeCenterPage = false, this.onPageChanged, this.scrollPhysics, this.scrollDirection: Axis.horizontal}) : this.realPage = enableInfiniteScroll ? realPage + initialPage : initialPage, this.pageController = PageController( viewportFraction: viewportFraction, initialPage: enableInfiniteScroll ? realPage + initialPage : initialPage, );" />
       <item value="reverse" />
       <item value="Decoration Image" />
-      <item value="Container" />
       <item value="transform" />
       <item value="constraints" />
       <item value="foreground Decoration" />
@@ -47,15 +51,12 @@
       <item value="symmetric" />
       <item value="amber" />
       <item value="aspect Ratio" />
-      <item value="enlarge Center Page" />
-      <item value="auto Play Curve" />
-      <item value="/// The argument [icon] should not be null and the argument [title] should not be null when used in a Material Design's [BottomNavigationBar]." />
-      <item value="/// [Scaffold]'s [Scaffold.bottomNavigationBar] argument." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="111" />
-        <entry key="ENGLISH" value="112" />
+        <entry key="CHINESE" value="119" />
+        <entry key="ENGLISH" value="119" />
+        <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
