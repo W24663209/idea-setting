@@ -1,11 +1,25 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="_handle Refresh" />
+      <item value="List View" />
+      <item value="_current Index" />
+      <item value="Bottom Navigation Bar" />
+      <item value="floating Action Button" />
+      <item value="Bottom Navigation Bar Item" />
+      <item value="Scaffold" />
+      <item value="decoration" />
+      <item value="Container" />
+      <item value="App Bar" />
+      <item value="Alert Dialog" />
+      <item value="Card" />
+      <item value="Divider" />
+      <item value="alignment" />
+      <item value="Box Decoration" />
       <item value="内容" />
       <item value="home" />
       <item value="showinfo" />
       <item value="current Index" />
-      <item value="Scaffold" />
       <item value="Error connecting to the service protocol: failed to connect to http://127.0.0.1:61545/COwJPZ-FTMM=/" />
       <item value="I/flutter (16829): The method '_debugTypesAreRight' was called on null." />
       <item value="Travel Page" />
@@ -26,18 +40,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="24" />
+        <entry key="CHINESE" value="45" />
+        <entry key="ENGLISH" value="46" />
+        <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
