@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Notification Listener" />
+      <item value="Loading Container" />
+      <item value="remove Padding" />
+      <item value="Media Query" />
+      <item value="Refresh Indicator" />
       <item value="_handle Refresh" />
       <item value="List View" />
       <item value="_current Index" />
@@ -40,8 +45,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="46" />
+        <entry key="CHINESE" value="52" />
+        <entry key="ENGLISH" value="53" />
         <entry key="SWEDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
       </map>
