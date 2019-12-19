@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="内容" />
+      <item value="home" />
+      <item value="showinfo" />
       <item value="current Index" />
       <item value="Scaffold" />
       <item value="Error connecting to the service protocol: failed to connect to http://127.0.0.1:61545/COwJPZ-FTMM=/" />
@@ -23,13 +26,18 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="22" />
-        <entry key="ENGLISH" value="23" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="24" />
         <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
