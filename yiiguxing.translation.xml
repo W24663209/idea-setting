@@ -1,6 +1,31 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="indicator Bg Padding" />
+      <item value="dot Vertical Padding" />
+      <item value="radius" />
+      <item value="dot Position" />
+      <item value="move Indicator From Bottom" />
+      <item value="no Radius For Indicator" />
+      <item value="overlay Shadow" />
+      <item value="overlay Shadow Colors" />
+      <item value="overlay Shadow Size" />
+      <item value="autoplay Duration" />
+      <item value="on Image Change" />
+      <item value="default Image" />
+      <item value="animation Curve" />
+      <item value="images" />
+      <item value="dot Color" />
+      <item value="dot Horizontal Padding" />
+      <item value="with Opacity" />
+      <item value="infinity" />
+      <item value="Sized Box" />
+      <item value="show Indicator" />
+      <item value="dot Spacing" />
+      <item value="dot Size" />
+      <item value="height" />
+      <item value="HTTP request failed, statusCode: 403," />
+      <item value="Row" />
       <item value="导航栏" />
       <item value="width Factor" />
       <item value="Box Constraints" />
@@ -26,32 +51,11 @@
       <item value="target language code" />
       <item value="ascii" />
       <item value="内容" />
-      <item value="home" />
-      <item value="showinfo" />
-      <item value="current Index" />
-      <item value="Scaffold" />
-      <item value="Error connecting to the service protocol: failed to connect to http://127.0.0.1:61545/COwJPZ-FTMM=/" />
-      <item value="I/flutter (16829): The method '_debugTypesAreRight' was called on null." />
-      <item value="Travel Page" />
-      <item value="My Page" />
-      <item value="当前" />
-      <item value="_active Color" />
-      <item value="Center" />
-      <item value="Floating Action Button" />
-      <item value="init State" />
-      <item value="dynamic" />
-      <item value="Could not resolve all artifacts for configuration ':flutter_webview_plugin:classpath'." />
-      <item value="asset" />
-      <item value="Padding" />
-      <item value="lerp" />
-      <item value="Widget" />
-      <item value="生产完成" />
-      <item value="生产完成按钮是否显示" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="50" />
+        <entry key="CHINESE" value="93" />
+        <entry key="ENGLISH" value="94" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
