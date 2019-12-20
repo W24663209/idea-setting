@@ -1,6 +1,22 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Circle Avatar" />
+      <item value="label Padding" />
+      <item value="label Style" />
+      <item value="avatar" />
+      <item value="show Indicator" />
+      <item value="border Radius" />
+      <item value="dot Increased Color" />
+      <item value="dot Color" />
+      <item value="dot Bg Color" />
+      <item value="opacity" />
+      <item value="with Opacity" />
+      <item value="animation Curve" />
+      <item value="images" />
+      <item value="Row" />
+      <item value="carousel pro" />
+      <item value="cupertino icons" />
       <item value="indicator Bg Padding" />
       <item value="dot Vertical Padding" />
       <item value="radius" />
@@ -13,19 +29,13 @@
       <item value="autoplay Duration" />
       <item value="on Image Change" />
       <item value="default Image" />
-      <item value="animation Curve" />
-      <item value="images" />
-      <item value="dot Color" />
       <item value="dot Horizontal Padding" />
-      <item value="with Opacity" />
       <item value="infinity" />
       <item value="Sized Box" />
-      <item value="show Indicator" />
       <item value="dot Spacing" />
       <item value="dot Size" />
       <item value="height" />
       <item value="HTTP request failed, statusCode: 403," />
-      <item value="Row" />
       <item value="导航栏" />
       <item value="width Factor" />
       <item value="Box Constraints" />
@@ -41,25 +51,16 @@
       <item value="翻译" />
       <item value="composite" />
       <item value="Masters" />
-      <item value="weight" />
-      <item value="q people lose weight composite Masters" />
-      <item value="dest" />
-      <item value="fr" />
-      <item value="parent" />
-      <item value="contents" />
-      <item value="retry" />
-      <item value="target language code" />
-      <item value="ascii" />
-      <item value="内容" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="93" />
-        <entry key="ENGLISH" value="94" />
+        <entry key="CHINESE" value="111" />
+        <entry key="ENGLISH" value="112" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
