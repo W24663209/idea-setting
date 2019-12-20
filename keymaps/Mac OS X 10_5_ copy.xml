@@ -8,7 +8,11 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="FlutterBloc.New">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
   <action id="SaveAs" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
