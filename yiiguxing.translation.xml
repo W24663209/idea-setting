@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="I/flutter (16334): Another exception was thrown: Bad state: Future already completed" />
       <item value="drag Start Behavior" />
       <item value="Tab Bar Theme" />
       <item value="dot Increase Size" />
@@ -50,12 +51,11 @@
       <item value="alter" />
       <item value="ord() expected string of length 1, but int found" />
       <item value="but string of length 0 found" />
-      <item value="befor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="122" />
+        <entry key="CHINESE" value="122" />
+        <entry key="ENGLISH" value="123" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
