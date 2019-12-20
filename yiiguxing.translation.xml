@@ -1,6 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drag Start Behavior" />
+      <item value="Tab Bar Theme" />
+      <item value="dot Increase Size" />
+      <item value="indicator Bg Padding" />
+      <item value="with Opacity" />
+      <item value="alpha" />
+      <item value="opacity" />
       <item value="Tab Bar View" />
       <item value="Tab Bar" />
       <item value="Circle Avatar" />
@@ -12,14 +19,11 @@
       <item value="dot Increased Color" />
       <item value="dot Color" />
       <item value="dot Bg Color" />
-      <item value="opacity" />
-      <item value="with Opacity" />
       <item value="animation Curve" />
       <item value="images" />
       <item value="Row" />
       <item value="carousel pro" />
       <item value="cupertino icons" />
-      <item value="indicator Bg Padding" />
       <item value="dot Vertical Padding" />
       <item value="radius" />
       <item value="dot Position" />
@@ -47,15 +51,11 @@
       <item value="ord() expected string of length 1, but int found" />
       <item value="but string of length 0 found" />
       <item value="befor" />
-      <item value="withdraw" />
-      <item value="Tk" />
-      <item value="options" />
-      <item value="翻译" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="113" />
-        <entry key="ENGLISH" value="114" />
+        <entry key="CHINESE" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
