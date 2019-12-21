@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="strip" />
       <item value="base url" />
       <item value="parser" />
       <item value="text" />
@@ -50,12 +51,11 @@
       <item value="Could not resolve all artifacts for configuration ':flutter_webview_plugin:classpath'." />
       <item value="asset" />
       <item value="Padding" />
-      <item value="lerp" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
