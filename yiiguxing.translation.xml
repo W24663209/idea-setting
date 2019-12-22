@@ -1,74 +1,70 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="日志等级" />
-      <item value="等级" />
-      <item value="LOG LVEVN" />
-      <item value="directory" />
-      <item value="目录" />
-      <item value="DEFAULT REQUEST HEADERS" />
-      <item value="内容规则" />
-      <item value="strip" />
-      <item value="base url" />
-      <item value="parser" />
-      <item value="text" />
-      <item value="paste" />
-      <item value="tuple" />
-      <item value="规则" />
-      <item value="format" />
-      <item value="格式化" />
+      <item value="Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;." />
+      <item value="pub get failed (66; Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;.)" />
+      <item value="Process" />
+      <item value="box Shadow" />
+      <item value="I/flutter (17872): Another exception was thrown: Bad state: Future already completed" />
+      <item value="I/flutter (16334): Another exception was thrown: Bad state: Future already completed" />
+      <item value="drag Start Behavior" />
+      <item value="Tab Bar Theme" />
+      <item value="dot Increase Size" />
+      <item value="indicator Bg Padding" />
+      <item value="with Opacity" />
+      <item value="alpha" />
+      <item value="opacity" />
+      <item value="Tab Bar View" />
+      <item value="Tab Bar" />
+      <item value="Circle Avatar" />
+      <item value="label Padding" />
+      <item value="label Style" />
+      <item value="avatar" />
+      <item value="show Indicator" />
+      <item value="border Radius" />
+      <item value="dot Increased Color" />
+      <item value="dot Color" />
+      <item value="dot Bg Color" />
+      <item value="animation Curve" />
+      <item value="images" />
+      <item value="Row" />
+      <item value="carousel pro" />
+      <item value="cupertino icons" />
+      <item value="dot Vertical Padding" />
+      <item value="radius" />
+      <item value="dot Position" />
+      <item value="move Indicator From Bottom" />
+      <item value="no Radius For Indicator" />
+      <item value="overlay Shadow" />
+      <item value="overlay Shadow Colors" />
+      <item value="overlay Shadow Size" />
+      <item value="autoplay Duration" />
+      <item value="on Image Change" />
+      <item value="default Image" />
+      <item value="dot Horizontal Padding" />
+      <item value="infinity" />
+      <item value="Sized Box" />
+      <item value="dot Spacing" />
+      <item value="dot Size" />
+      <item value="height" />
+      <item value="HTTP request failed, statusCode: 403," />
+      <item value="导航栏" />
       <item value="width Factor" />
       <item value="Box Constraints" />
-      <item value="alert is not defined" />
-      <item value="alert" />
-      <item value="alter" />
-      <item value="ord() expected string of length 1, but int found" />
-      <item value="but string of length 0 found" />
-      <item value="befor" />
-      <item value="withdraw" />
-      <item value="Tk" />
-      <item value="options" />
-      <item value="翻译" />
-      <item value="composite" />
-      <item value="Masters" />
-      <item value="weight" />
-      <item value="q people lose weight composite Masters" />
-      <item value="dest" />
-      <item value="fr" />
-      <item value="parent" />
-      <item value="contents" />
-      <item value="retry" />
-      <item value="target language code" />
-      <item value="ascii" />
-      <item value="内容" />
-      <item value="home" />
-      <item value="showinfo" />
-      <item value="current Index" />
-      <item value="Scaffold" />
-      <item value="Error connecting to the service protocol: failed to connect to http://127.0.0.1:61545/COwJPZ-FTMM=/" />
-      <item value="I/flutter (16829): The method '_debugTypesAreRight' was called on null." />
-      <item value="Travel Page" />
-      <item value="My Page" />
-      <item value="当前" />
-      <item value="_active Color" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="63" />
-        <entry key="ENGLISH" value="63" />
+        <entry key="CHINESE" value="128" />
+        <entry key="ENGLISH" value="129" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
+        <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="false" />
-      </google-translate>
-    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
