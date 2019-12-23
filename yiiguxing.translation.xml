@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Running Gradle task 'assembleDebug'..." />
       <item value="Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;." />
       <item value="pub get failed (66; Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;.)" />
       <item value="Process" />
@@ -50,12 +51,11 @@
       <item value="HTTP request failed, statusCode: 403," />
       <item value="导航栏" />
       <item value="width Factor" />
-      <item value="Box Constraints" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="128" />
-        <entry key="ENGLISH" value="129" />
+        <entry key="CHINESE" value="129" />
+        <entry key="ENGLISH" value="130" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
