@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consumption" />
+      <item value="Spring Cloud Client Application" />
+      <item value="dispatcher Servlet" />
       <item value="vintage" />
       <item value="Qualifier" />
       <item value="widgets" />
@@ -48,14 +51,11 @@
       <item value="overlay Shadow" />
       <item value="overlay Shadow Colors" />
       <item value="overlay Shadow Size" />
-      <item value="autoplay Duration" />
-      <item value="on Image Change" />
-      <item value="default Image" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="138" />
-        <entry key="ENGLISH" value="139" />
+        <entry key="CHINESE" value="142" />
+        <entry key="ENGLISH" value="143" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
