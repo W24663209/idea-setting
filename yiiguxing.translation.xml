@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="widgets" />
+      <item value="hide" />
       <item value="Error: Getter not found: 'kMinInteractiveDimension'." />
       <item value="Finished with error: Gradle task assembleDebug failed with exit code 1" />
       <item value="BUILD FAILED in 12s" />
@@ -49,13 +51,11 @@
       <item value="default Image" />
       <item value="dot Horizontal Padding" />
       <item value="infinity" />
-      <item value="Sized Box" />
-      <item value="dot Spacing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="CHINESE" value="136" />
+        <entry key="ENGLISH" value="137" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
