@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Error: Getter not found: 'kMinInteractiveDimension'." />
+      <item value="Finished with error: Gradle task assembleDebug failed with exit code 1" />
+      <item value="BUILD FAILED in 12s" />
+      <item value="Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output. Run with --scan to get full insights." />
+      <item value="registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)" />
       <item value="Running Gradle task 'assembleDebug'..." />
       <item value="Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;." />
       <item value="pub get failed (66; Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;.)" />
@@ -46,16 +51,11 @@
       <item value="infinity" />
       <item value="Sized Box" />
       <item value="dot Spacing" />
-      <item value="dot Size" />
-      <item value="height" />
-      <item value="HTTP request failed, statusCode: 403," />
-      <item value="导航栏" />
-      <item value="width Factor" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="134" />
+        <entry key="ENGLISH" value="135" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
