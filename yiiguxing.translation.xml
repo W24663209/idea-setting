@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
+      <item value="规则" />
       <item value="repos" />
       <item value="discovery" />
       <item value="search-paths" />
@@ -49,13 +51,11 @@
       <item value="animation Curve" />
       <item value="images" />
       <item value="Row" />
-      <item value="carousel pro" />
-      <item value="cupertino icons" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="150" />
-        <entry key="ENGLISH" value="150" />
+        <entry key="CHINESE" value="151" />
+        <entry key="ENGLISH" value="152" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
