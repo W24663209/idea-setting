@@ -1,7 +1,28 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="basic" />
+      <item value="java.net.ConnectException: Connection refused (Connection refused)" />
+      <item value="endpoints" />
+      <item value="management" />
+      <item value="Forwarding error" />
+      <item value="status 400 reading HelloService#hiService(String,String)" />
+      <item value="status 400 reading HelloService#hiService(String)" />
+      <item value="atus 400 reading HelloService#hiService(String)" />
+      <item value="Connection refused (Connection refused)" />
+      <item value="Load balancer does not have available server for client: service-provider" />
+      <item value="Error during filtering" />
       <item value="consumption" />
+      <item value="Cannot execute request on any known server" />
+      <item value="profile" />
+      <item value="规则" />
+      <item value="repos" />
+      <item value="discovery" />
+      <item value="search-paths" />
+      <item value="Invalid remote: origin" />
+      <item value="Native Method" />
+      <item value="assembly" />
+      <item value="label" />
       <item value="Spring Cloud Client Application" />
       <item value="dispatcher Servlet" />
       <item value="vintage" />
@@ -30,34 +51,14 @@
       <item value="Tab Bar View" />
       <item value="Tab Bar" />
       <item value="Circle Avatar" />
-      <item value="label Padding" />
-      <item value="label Style" />
-      <item value="avatar" />
-      <item value="show Indicator" />
-      <item value="border Radius" />
-      <item value="dot Increased Color" />
-      <item value="dot Color" />
-      <item value="dot Bg Color" />
-      <item value="animation Curve" />
-      <item value="images" />
-      <item value="Row" />
-      <item value="carousel pro" />
-      <item value="cupertino icons" />
-      <item value="dot Vertical Padding" />
-      <item value="radius" />
-      <item value="dot Position" />
-      <item value="move Indicator From Bottom" />
-      <item value="no Radius For Indicator" />
-      <item value="overlay Shadow" />
-      <item value="overlay Shadow Colors" />
-      <item value="overlay Shadow Size" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="142" />
-        <entry key="ENGLISH" value="143" />
+        <entry key="CHINESE" value="171" />
+        <entry key="ENGLISH" value="172" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
