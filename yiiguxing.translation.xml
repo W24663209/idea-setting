@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="basic" />
       <item value="java.net.ConnectException: Connection refused (Connection refused)" />
       <item value="endpoints" />
       <item value="management" />
@@ -50,7 +51,6 @@
       <item value="Tab Bar View" />
       <item value="Tab Bar" />
       <item value="Circle Avatar" />
-      <item value="label Padding" />
     </histories>
     <option name="languageScores">
       <map>
