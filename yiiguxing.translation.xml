@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="consumption" />
       <item value="Forwarding error" />
+      <item value="status 400 reading HelloService#hiService(String,String)" />
+      <item value="status 400 reading HelloService#hiService(String)" />
+      <item value="atus 400 reading HelloService#hiService(String)" />
+      <item value="Connection refused (Connection refused)" />
+      <item value="Load balancer does not have available server for client: service-provider" />
+      <item value="Error during filtering" />
+      <item value="consumption" />
       <item value="Cannot execute request on any known server" />
       <item value="profile" />
       <item value="规则" />
@@ -45,17 +51,11 @@
       <item value="label Style" />
       <item value="avatar" />
       <item value="show Indicator" />
-      <item value="border Radius" />
-      <item value="dot Increased Color" />
-      <item value="dot Color" />
-      <item value="dot Bg Color" />
-      <item value="animation Curve" />
-      <item value="images" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="155" />
-        <entry key="ENGLISH" value="156" />
+        <entry key="CHINESE" value="168" />
+        <entry key="ENGLISH" value="169" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
