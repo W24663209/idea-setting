@@ -1,17 +1,17 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Cannot execute request on any known server" />
+      <item value="consumption" />
       <item value="profile" />
       <item value="规则" />
       <item value="repos" />
       <item value="discovery" />
       <item value="search-paths" />
       <item value="Invalid remote: origin" />
-      <item value="Cannot execute request on any known server" />
       <item value="Native Method" />
       <item value="assembly" />
       <item value="label" />
-      <item value="consumption" />
       <item value="Spring Cloud Client Application" />
       <item value="dispatcher Servlet" />
       <item value="vintage" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="151" />
-        <entry key="ENGLISH" value="152" />
+        <entry key="CHINESE" value="153" />
+        <entry key="ENGLISH" value="154" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
