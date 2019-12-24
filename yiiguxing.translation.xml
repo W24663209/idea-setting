@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Invalid remote: origin" />
       <item value="Cannot execute request on any known server" />
       <item value="Native Method" />
       <item value="assembly" />
@@ -50,12 +51,11 @@
       <item value="dot Vertical Padding" />
       <item value="radius" />
       <item value="dot Position" />
-      <item value="move Indicator From Bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="CHINESE" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
