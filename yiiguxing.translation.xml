@@ -1,11 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="not Click" />
-      <item value="create活动" />
-      <item value="create Activate" />
-      <item value="确定创建" />
-      <item value="确定" />
+      <item value="Cannot execute request on any known server" />
+      <item value="Instance Monitor$Misconfigured Host Exception" />
+      <item value="Just added and starting handler tuple: default_agg_aggClusterEventHandler" />
+      <item value="Enable Circuit Breaker" />
+      <item value="Could not initiate connection to host, giving up" />
+      <item value="No message available" />
+      <item value="Failed to start component" />
       <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
       <item value="get For Object" />
       <item value="ALWAYS SAMPLE" />
@@ -22,7 +24,6 @@
       <item value="Load balancer does not have available server for client: service-provider" />
       <item value="Error during filtering" />
       <item value="consumption" />
-      <item value="Cannot execute request on any known server" />
       <item value="profile" />
       <item value="规则" />
       <item value="repos" />
@@ -50,12 +51,11 @@
       <item value="box Shadow" />
       <item value="I/flutter (17872): Another exception was thrown: Bad state: Future already completed" />
       <item value="I/flutter (16334): Another exception was thrown: Bad state: Future already completed" />
-      <item value="drag Start Behavior" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="CHINESE" value="184" />
+        <entry key="ENGLISH" value="185" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
