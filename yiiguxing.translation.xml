@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="not Click" />
+      <item value="create活动" />
+      <item value="create Activate" />
+      <item value="确定创建" />
+      <item value="确定" />
       <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
       <item value="get For Object" />
       <item value="ALWAYS SAMPLE" />
@@ -46,16 +51,11 @@
       <item value="I/flutter (17872): Another exception was thrown: Bad state: Future already completed" />
       <item value="I/flutter (16334): Another exception was thrown: Bad state: Future already completed" />
       <item value="drag Start Behavior" />
-      <item value="Tab Bar Theme" />
-      <item value="dot Increase Size" />
-      <item value="indicator Bg Padding" />
-      <item value="with Opacity" />
-      <item value="alpha" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="175" />
-        <entry key="ENGLISH" value="176" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
