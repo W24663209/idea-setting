@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Unable to start embedded Tomcat" />
+      <item value="Type javax.xml.bind.JAXBContext not present" />
+      <item value="Broken pipe" />
       <item value="Cannot prepare queue for listener. Either the queue doesn't exist or the broker will not allow us to use it." />
       <item value="Cannot execute request on any known server" />
       <item value="Instance Monitor$Misconfigured Host Exception" />
@@ -48,14 +51,11 @@
       <item value="Running Gradle task 'assembleDebug'..." />
       <item value="Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;." />
       <item value="pub get failed (66; Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;.)" />
-      <item value="Process" />
-      <item value="box Shadow" />
-      <item value="I/flutter (17872): Another exception was thrown: Bad state: Future already completed" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="190" />
+        <entry key="ENGLISH" value="191" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
