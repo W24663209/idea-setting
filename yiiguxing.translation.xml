@@ -1,9 +1,16 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="actuator" />
+      <item value="Just added and starting handler tuple: default_agg_aggClusterEventHandler" />
+      <item value="Enable Discovery Client" />
+      <item value="Spring Boot Application" />
+      <item value="Enable Eureka Client" />
+      <item value="Enable Circuit Breaker" />
+      <item value="Refresh Scope" />
+      <item value="Enable Hystrix" />
       <item value="netflix" />
       <item value="client" />
-      <item value="actuator" />
       <item value="&quot;msg&quot;: &quot;Request method 'GET' not supported&quot;," />
       <item value="consumption" />
       <item value="Spring Cloud Client Application" />
@@ -44,18 +51,11 @@
       <item value="dot Bg Color" />
       <item value="animation Curve" />
       <item value="images" />
-      <item value="Row" />
-      <item value="carousel pro" />
-      <item value="cupertino icons" />
-      <item value="dot Vertical Padding" />
-      <item value="radius" />
-      <item value="dot Position" />
-      <item value="move Indicator From Bottom" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="148" />
-        <entry key="ENGLISH" value="149" />
+        <entry key="CHINESE" value="156" />
+        <entry key="ENGLISH" value="157" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
