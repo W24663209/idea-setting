@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="netflix" />
+      <item value="client" />
+      <item value="actuator" />
       <item value="&quot;msg&quot;: &quot;Request method 'GET' not supported&quot;," />
       <item value="consumption" />
       <item value="Spring Cloud Client Application" />
@@ -48,14 +51,11 @@
       <item value="radius" />
       <item value="dot Position" />
       <item value="move Indicator From Bottom" />
-      <item value="no Radius For Indicator" />
-      <item value="overlay Shadow" />
-      <item value="overlay Shadow Colors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="143" />
-        <entry key="ENGLISH" value="144" />
+        <entry key="CHINESE" value="148" />
+        <entry key="ENGLISH" value="149" />
         <entry key="ESTONIAN" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="KURDISH" value="1" />
