@@ -1,38 +1,19 @@
 <application>
   <component name="AppStorage">
     <histories>
-      <item value="Cannot execute request on any known server" />
-      <item value="Instance Monitor$Misconfigured Host Exception" />
+      <item value="z" />
+      <item value="actuator" />
       <item value="Just added and starting handler tuple: default_agg_aggClusterEventHandler" />
+      <item value="Enable Discovery Client" />
+      <item value="Spring Boot Application" />
+      <item value="Enable Eureka Client" />
       <item value="Enable Circuit Breaker" />
-      <item value="Could not initiate connection to host, giving up" />
-      <item value="No message available" />
-      <item value="Failed to start component" />
-      <item value="Java HotSpot(TM) 64-Bit Server VM warning: Sharing is only supported for boot loader classes because bootstrap classpath has been appended" />
-      <item value="get For Object" />
-      <item value="ALWAYS SAMPLE" />
-      <item value="Sampler" />
-      <item value="basic" />
-      <item value="java.net.ConnectException: Connection refused (Connection refused)" />
-      <item value="endpoints" />
-      <item value="management" />
-      <item value="Forwarding error" />
-      <item value="status 400 reading HelloService#hiService(String,String)" />
-      <item value="status 400 reading HelloService#hiService(String)" />
-      <item value="atus 400 reading HelloService#hiService(String)" />
-      <item value="Connection refused (Connection refused)" />
-      <item value="Load balancer does not have available server for client: service-provider" />
-      <item value="Error during filtering" />
+      <item value="Refresh Scope" />
+      <item value="Enable Hystrix" />
+      <item value="netflix" />
+      <item value="client" />
+      <item value="&quot;msg&quot;: &quot;Request method 'GET' not supported&quot;," />
       <item value="consumption" />
-      <item value="profile" />
-      <item value="规则" />
-      <item value="repos" />
-      <item value="discovery" />
-      <item value="search-paths" />
-      <item value="Invalid remote: origin" />
-      <item value="Native Method" />
-      <item value="assembly" />
-      <item value="label" />
       <item value="Spring Cloud Client Application" />
       <item value="dispatcher Servlet" />
       <item value="vintage" />
@@ -51,14 +32,33 @@
       <item value="box Shadow" />
       <item value="I/flutter (17872): Another exception was thrown: Bad state: Future already completed" />
       <item value="I/flutter (16334): Another exception was thrown: Bad state: Future already completed" />
+      <item value="drag Start Behavior" />
+      <item value="Tab Bar Theme" />
+      <item value="dot Increase Size" />
+      <item value="indicator Bg Padding" />
+      <item value="with Opacity" />
+      <item value="alpha" />
+      <item value="opacity" />
+      <item value="Tab Bar View" />
+      <item value="Tab Bar" />
+      <item value="Circle Avatar" />
+      <item value="label Padding" />
+      <item value="label Style" />
+      <item value="avatar" />
+      <item value="show Indicator" />
+      <item value="border Radius" />
+      <item value="dot Increased Color" />
+      <item value="dot Color" />
+      <item value="dot Bg Color" />
+      <item value="animation Curve" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="157" />
+        <entry key="ENGLISH" value="157" />
         <entry key="ESTONIAN" value="1" />
+        <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
