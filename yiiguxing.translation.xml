@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bindscrolltolower" />
+      <item value="on Show" />
       <item value="scroll" />
       <item value="overflow" />
       <item value="threshold" />
@@ -49,13 +51,11 @@
       <item value="opacity" />
       <item value="Tab Bar View" />
       <item value="Tab Bar" />
-      <item value="Circle Avatar" />
-      <item value="label Padding" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="167" />
+        <entry key="ENGLISH" value="168" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
