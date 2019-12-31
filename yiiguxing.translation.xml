@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Home State" />
       <item value="Bottom Navigation Bar Type" />
       <item value="jump To Page" />
       <item value="icon" />
@@ -50,12 +51,11 @@
       <item value="dispatcher Servlet" />
       <item value="vintage" />
       <item value="Qualifier" />
-      <item value="widgets" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="190" />
-        <entry key="ENGLISH" value="191" />
+        <entry key="CHINESE" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
