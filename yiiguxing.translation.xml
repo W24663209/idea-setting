@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Bottom Navigation Bar" />
+      <item value="bottom Navigation Bar" />
       <item value="actions" />
       <item value="脚手架" />
       <item value="App Bar" />
@@ -49,13 +51,11 @@
       <item value="registerResGeneratingTask is deprecated, use registerGeneratedResFolders(FileCollection)" />
       <item value="Running Gradle task 'assembleDebug'..." />
       <item value="Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;." />
-      <item value="pub get failed (66; Could not find a file named &quot;pubspec.yaml&quot; in &quot;/Users/weizongtang/Public/HistoryOfEverything-master/dependencies/Nima-Flutter&quot;.)" />
-      <item value="Process" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="CHINESE" value="178" />
+        <entry key="ENGLISH" value="179" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
