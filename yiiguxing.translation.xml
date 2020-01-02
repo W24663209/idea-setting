@@ -1,6 +1,12 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="splice" />
+      <item value="ui Files" />
+      <item value="wk Activity Image Entity List" />
+      <item value="store Ids" />
+      <item value="handle Set Ui Temp Link" />
+      <item value="ui Temp Link" />
       <item value="Home State" />
       <item value="Bottom Navigation Bar Type" />
       <item value="jump To Page" />
@@ -45,28 +51,28 @@
       <item value="Enable Hystrix" />
       <item value="netflix" />
       <item value="client" />
-      <item value="&quot;msg&quot;: &quot;Request method 'GET' not supported&quot;," />
-      <item value="consumption" />
-      <item value="Spring Cloud Client Application" />
-      <item value="dispatcher Servlet" />
-      <item value="vintage" />
-      <item value="Qualifier" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="193" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="ESTONIAN" value="1" />
         <entry key="POLISH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="KURDISH" value="1" />
+        <entry key="GREEK" value="1" />
         <entry key="INDONESIAN" value="1" />
         <entry key="VIETNAMESE" value="2" />
       </map>
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="false" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
     <option name="showStatusIcon" value="false" />
     <option name="showWordForms" value="false" />
