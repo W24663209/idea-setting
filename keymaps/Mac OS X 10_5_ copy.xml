@@ -11,6 +11,10 @@
   <action id="FlutterBloc.New">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="SaveAs" />
   <action id="ShelveChanges.UnshelveWithDialog" />
   <action id="android.deploy.ApplyChanges">
