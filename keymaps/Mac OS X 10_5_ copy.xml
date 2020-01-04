@@ -2,6 +2,17 @@
   <action id="$EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseTreeNode">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="ConfigureIcs">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
@@ -17,6 +28,9 @@
   </action>
   <action id="SaveAs" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Uml.CollapseNodes">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
