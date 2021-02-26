@@ -1,0 +1,44 @@
+<keymap version="1" name="Mac OS X 10.5+ copy" parent="Mac OS X 10.5+">
+  <action id="$EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="shift enter" />
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseRegion">
+    <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="CollapseTreeNode">
+    <keyboard-shortcut first-keystroke="subtract" />
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="ConfigureIcs">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="Editor EditorTranslateAction">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="FlutterBloc.New">
+    <keyboard-shortcut first-keystroke="shift meta p" />
+  </action>
+  <action id="FullyExpandTreeNode">
+    <keyboard-shortcut first-keystroke="multiply" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
+  <action id="SaveAs" />
+  <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Uml.CollapseNodes">
+    <keyboard-shortcut first-keystroke="meta slash" />
+  </action>
+  <action id="android.deploy.ApplyChanges">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="android.deploy.CodeSwap">
+    <keyboard-shortcut first-keystroke="shift ctrl meta r" />
+  </action>
+  <action id="easyTranslate">
+    <keyboard-shortcut first-keystroke="alt a" />
+  </action>
+  <action id="toEnglish" />
+</keymap>
