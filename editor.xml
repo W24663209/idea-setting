@@ -1,5 +1,9 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+  </component>
+  <component name="EditorSettings">
+    <option name="ARE_GUTTER_ICONS_SHOWN" value="false" />
   </component>
 </application>
