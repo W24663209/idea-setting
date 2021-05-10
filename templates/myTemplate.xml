@@ -1,12 +1,11 @@
 <templateSet group="myTemplate">
-  <template name=".." value="/*&#10; * @Description TODO $Description$&#10; * @CreatedBy TODO weizongtang&#10; * @CreateTime TODO $date$&#10; */" shortcut="ENTER" description="方法模板" toReformat="false" toShortenFQNames="true">
-    <variable name="Description" expression="" defaultValue="" alwaysStopAt="true" />
+  <template name=".." value="/**&#10; * @Description TODO &#10; * @CreatedBy TODO weizongtang&#10; * @CreateTime TODO $date$&#10; */" shortcut="ENTER" description="方法模板" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date(&quot;YYYY/MM/dd HH:mm:ss&quot;)&#9;" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
   </template>
-  <template name="con" value="/*&#10; * @Description TODO &#10; * @CreatedBy TODO weizongtang&#10; * @CreateTime TODO $date$&#10; */&#10;@PostMapping(&quot;/test&quot;)&#10;public Result sendEmailCode() {&#10;    return ResultUtil.success();&#10;}&#10; " shortcut="ENTER" toReformat="false" toShortenFQNames="true">
+  <template name="con" value="/**&#10; * @Description TODO &#10; * @CreatedBy TODO weizongtang&#10; * @CreateTime TODO $date$&#10; */&#10;@PostMapping(&quot;/test&quot;)&#10;public Result sendEmailCode() {&#10;    return ResultUtil.success();&#10;}&#10; " shortcut="ENTER" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date(&quot;YYYY/MM/dd HH:mm:ss&quot;)&#9;" defaultValue="date(&quot;YYYY/MM/dd HH:mm:ss&quot;)&#9;" alwaysStopAt="false" />
     <context>
       <option name="JAVA_CODE" value="true" />
