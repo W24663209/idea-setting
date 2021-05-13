@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="comment" />
       <item value="Lookup method resolution failed" />
       <item value="no Freeze" />
       <item value="冻结" />
@@ -53,7 +54,6 @@
       <item value="Formatter" />
       <item value="export To Server" />
       <item value="Malformed URL Exception" />
-      <item value="店长" />
     </histories>
     <option name="languageScores">
       <map>
