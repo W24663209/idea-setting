@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="划出" />
+      <item value="划入" />
+      <item value="INVITATION PROFIT SHARE DEPOSIT ACCOUNT" />
+      <item value="Invitation DEPOSIT ACCOUNT" />
+      <item value="SECURITY DEPOSIT ACCOUNT" />
       <item value="on Method" />
       <item value="Any Annotation" />
       <item value="need Hide" />
@@ -49,11 +54,6 @@
       <item value="read Pointcut" />
       <item value="Enable Transaction Management" />
       <item value="A bean with that name has already been defined and overriding is disabled." />
-      <item value="The bean 'client-provider.FeignClientSpecification' could not be registered" />
-      <item value="back" />
-      <item value="backup" />
-      <item value="Wk Order Ads Entity" />
-      <item value="ads Name" />
     </histories>
     <option name="languageScores">
       <map>
