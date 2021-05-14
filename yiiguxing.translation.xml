@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="invitation Profit Share" />
       <item value="划出" />
       <item value="划入" />
       <item value="INVITATION PROFIT SHARE DEPOSIT ACCOUNT" />
@@ -53,7 +54,6 @@
       <item value="Index 8 out of bounds for length 8" />
       <item value="read Pointcut" />
       <item value="Enable Transaction Management" />
-      <item value="A bean with that name has already been defined and overriding is disabled." />
     </histories>
     <option name="languageScores">
       <map>
