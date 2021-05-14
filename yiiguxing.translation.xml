@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Retry Policy Exhausted" />
+      <item value="appid or appkey is invalid" />
       <item value="invitation Profit Share" />
       <item value="划出" />
       <item value="划入" />
@@ -52,8 +54,6 @@
       <item value="multiply" />
       <item value="dealer User Id" />
       <item value="Index 8 out of bounds for length 8" />
-      <item value="read Pointcut" />
-      <item value="Enable Transaction Management" />
     </histories>
     <option name="languageScores">
       <map>
