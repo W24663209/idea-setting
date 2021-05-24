@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="SECOND" />
       <item value="Invites" />
       <item value="Amount" />
       <item value="金额计算错误" />
@@ -53,7 +54,6 @@
       <item value="Invitation Profit Share" />
       <item value="discard" />
       <item value="丢弃" />
-      <item value="队列" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1621305330936" />
+    <option name="lastTrimTime" value="1621847849874" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
