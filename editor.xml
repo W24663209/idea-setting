@@ -2,5 +2,6 @@
   <component name="CodeInsightSettings">
     <option name="completionCaseSensitive" value="2" />
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
+    <option name="ADD_IMPORTS_ON_PASTE" value="3" />
   </component>
 </application>
