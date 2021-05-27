@@ -4,10 +4,18 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="DEALER APPEAL SYSTEM DEAL WITH" />
+      <item value="处理" />
+      <item value="process" />
+      <item value="PROCESSE" />
+      <item value="DEALER APPEAL SYSTEM PROCESSE" />
+      <item value="DEALER APPEAL system processe" />
+      <item value="客服处理" />
+      <item value="通知" />
+      <item value="申诉" />
       <item value="com.otc100.utils.common.Result&lt;com.otc100.model.entity.dto.invitation.QueryDealerInvitesIncomeDTO&gt; should be a type variable." />
       <item value="websocket" />
       <item value="push Client" />
-      <item value="处理" />
       <item value="t websocket" />
       <item value="error order log" />
       <item value="t websocket error order log" />
@@ -46,14 +54,6 @@
       <item value="小数" />
       <item value="; no exact representable decimal result." />
       <item value="The error may exist in comotc100persistentmapperorderOrderMapper.java (best guess)" />
-      <item value="INVITATION PROFIT SHARE" />
-      <item value="Recharge" />
-      <item value="get Deal Type" />
-      <item value="security Deposit Value" />
-      <item value="profit Share" />
-      <item value="query Invites User List" />
-      <item value="query Invites List" />
-      <item value="query Invites Income" />
     </histories>
     <option name="languageScores">
       <map>
