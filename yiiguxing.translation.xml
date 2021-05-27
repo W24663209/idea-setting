@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="com.otc100.utils.common.Result&lt;com.otc100.model.entity.dto.invitation.QueryDealerInvitesIncomeDTO&gt; should be a type variable." />
       <item value="websocket" />
       <item value="push Client" />
       <item value="处理" />
@@ -53,7 +54,6 @@
       <item value="query Invites User List" />
       <item value="query Invites List" />
       <item value="query Invites Income" />
-      <item value="query Invites Today Income" />
     </histories>
     <option name="languageScores">
       <map>
