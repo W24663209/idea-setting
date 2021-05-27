@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="websocket" />
       <item value="push Client" />
       <item value="处理" />
       <item value="t websocket" />
@@ -53,7 +54,6 @@
       <item value="query Invites List" />
       <item value="query Invites Income" />
       <item value="query Invites Today Income" />
-      <item value="get Start Today" />
     </histories>
     <option name="languageScores">
       <map>
