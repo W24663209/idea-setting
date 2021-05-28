@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="default" />
       <item value="DEALER APPEAL SYSTEM DEAL WITH" />
       <item value="处理" />
       <item value="process" />
@@ -53,7 +54,6 @@
       <item value="keep Decimal" />
       <item value="小数" />
       <item value="; no exact representable decimal result." />
-      <item value="The error may exist in comotc100persistentmapperorderOrderMapper.java (best guess)" />
     </histories>
     <option name="languageScores">
       <map>
