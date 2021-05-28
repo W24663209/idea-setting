@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="申诉订单有新的进度" />
+      <item value="new error order deal with" />
       <item value="default" />
       <item value="DEALER APPEAL SYSTEM DEAL WITH" />
       <item value="处理" />
@@ -52,8 +54,6 @@
       <item value="冻结" />
       <item value="Duplicate entry '2021040136260864-OTC_10134583556392_1617290059357-6-12-1' for key 'index_unique'" />
       <item value="keep Decimal" />
-      <item value="小数" />
-      <item value="; no exact representable decimal result." />
     </histories>
     <option name="languageScores">
       <map>
