@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="is Secure" />
       <item value="check Connect" />
       <item value="check" />
       <item value="Field 'platform' doesn't have a default value" />
@@ -53,7 +54,6 @@
       <item value="need Hide" />
       <item value="heed Hide" />
       <item value="hide Account" />
-      <item value="Column 'create_time' in where clause is ambiguous" />
     </histories>
     <option name="languageScores">
       <map>
