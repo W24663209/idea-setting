@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="INSUFFICIENT CHANNAL BALANCE" />
+      <item value="INSUFFICIENT CHANNAL" />
+      <item value="INSUFFICIENT SMS BALANCE" />
+      <item value="ORDER FAILED" />
+      <item value="fail Result" />
       <item value="Attempted read from closed stream" />
       <item value="公告" />
       <item value="sys Send To Client" />
@@ -49,11 +54,6 @@
       <item value="appid or appkey is invalid" />
       <item value="invitation Profit Share" />
       <item value="划出" />
-      <item value="划入" />
-      <item value="INVITATION PROFIT SHARE DEPOSIT ACCOUNT" />
-      <item value="Invitation DEPOSIT ACCOUNT" />
-      <item value="SECURITY DEPOSIT ACCOUNT" />
-      <item value="on Method" />
     </histories>
     <option name="languageScores">
       <map>
