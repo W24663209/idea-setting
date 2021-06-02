@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="sys Send To Client" />
       <item value="redis has session server no has" />
       <item value="is Secure" />
       <item value="check Connect" />
@@ -53,7 +54,6 @@
       <item value="on Method" />
       <item value="Any Annotation" />
       <item value="need Hide" />
-      <item value="heed Hide" />
     </histories>
     <option name="languageScores">
       <map>
