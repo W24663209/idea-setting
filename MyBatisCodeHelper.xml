@@ -2,19 +2,6 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
-        <option name="convertByteOrShortToInt" value="true" />
-        <option name="delimeteAllColumn" value="true" />
-        <option name="foldGeneratedMethod" value="true" />
-        <option name="generateMethodInService" value="true" />
-        <option name="generateMethodInServiceInterface" value="true" />
-        <option name="ifTestStringNullAndEmpty" value="true" />
-        <option name="useActualParamNames" value="true" />
-        <option name="usejava8LocalDateTimeEct" value="true" />
-        <option name="userMacSet">
-          <set>
-            <option value="80-A4-73-68-00-29" />
-          </set>
-        </option>
         <option name="valid" value="true" />
       </Profile>
     </option>
