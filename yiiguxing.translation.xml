@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Wrapper" />
       <item value="Failed to create instance of POJO of type" />
       <item value="DEFAULT CHANNEL BALANCE PEAK" />
       <item value="INSUFFICIENT CHANNAL BALANCE" />
@@ -53,7 +54,6 @@
       <item value="Cannot instantiate test(s): java.lang.SecurityException: Prohibited package name: java" />
       <item value="The phone number is incorrect" />
       <item value="Retry Policy Exhausted" />
-      <item value="appid or appkey is invalid" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1622519953208" />
+    <option name="lastTrimTime" value="1623210362269" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
