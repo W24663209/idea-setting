@@ -2,6 +2,11 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="userMacSet">
+          <set>
+            <option value="00-A0-C6-00-00-00" />
+          </set>
+        </option>
         <option name="valid" value="true" />
       </Profile>
     </option>
