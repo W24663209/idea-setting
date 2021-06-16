@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Agent Channel Rate Set" />
       <item value="聚合" />
       <item value="comment" />
       <item value="Lookup method resolution failed" />
@@ -53,7 +54,6 @@
       <item value="s广告效果图" />
       <item value="is Upper Air" />
       <item value="Formatter" />
-      <item value="export To Server" />
     </histories>
     <option name="languageScores">
       <map>
