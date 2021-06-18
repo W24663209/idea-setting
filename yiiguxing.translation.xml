@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="set Scale" />
       <item value="like Left(" />
       <item value="The error occurred while setting parameters" />
       <item value="query Agent Channel Rate Set" />
@@ -53,7 +54,6 @@
       <item value="Wk Order Ads Entity" />
       <item value="ads Name" />
       <item value="广告效果图" />
-      <item value="s广告效果图" />
     </histories>
     <option name="languageScores">
       <map>
