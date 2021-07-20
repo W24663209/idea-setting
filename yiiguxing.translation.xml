@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="before" />
       <item value="query Receive Payment Order Tmp List" />
       <item value="代收订单列表" />
       <item value="临时代收订单列表" />
@@ -53,7 +54,6 @@
       <item value="read Pointcut" />
       <item value="Enable Transaction Management" />
       <item value="A bean with that name has already been defined and overriding is disabled." />
-      <item value="The bean 'client-provider.FeignClientSpecification' could not be registered" />
     </histories>
     <option name="languageScores">
       <map>
