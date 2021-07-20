@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="query Receive Payment Order Tmp List" />
+      <item value="代收订单列表" />
+      <item value="临时代收订单列表" />
       <item value="subtract" />
       <item value="merchant Charge" />
       <item value="set Scale" />
@@ -51,9 +54,6 @@
       <item value="Enable Transaction Management" />
       <item value="A bean with that name has already been defined and overriding is disabled." />
       <item value="The bean 'client-provider.FeignClientSpecification' could not be registered" />
-      <item value="back" />
-      <item value="backup" />
-      <item value="Wk Order Ads Entity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623830933066" />
+    <option name="lastTrimTime" value="1626751413373" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
