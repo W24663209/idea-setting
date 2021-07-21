@@ -9,4 +9,7 @@
   <action id="Editor EditorTranslateAction">
     <keyboard-shortcut first-keystroke="alt a" />
   </action>
+  <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
 </keymap>
