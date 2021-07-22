@@ -4,11 +4,13 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="ADD ASSETS NO FREEZE" />
+      <item value="DEDUCT ASSETS NO FREEZE" />
+      <item value="deduct Assets No Freeze" />
       <item value="SETTLEMENT POLYMER PLATFORM ACCOUNT" />
       <item value="POLYMER PLATFORM ACCOUNT" />
       <item value="get Freeze Assets" />
       <item value="update Assets" />
-      <item value="DEDUCT ASSETS NO FREEZE" />
       <item value="OPERATE TYPE" />
       <item value="get Notice Status Desc" />
       <item value="query Instead Order Page List" />
@@ -52,8 +54,6 @@
       <item value="Invitation Profit Share" />
       <item value="discard" />
       <item value="丢弃" />
-      <item value="队列" />
-      <item value="消费" />
     </histories>
     <option name="languageScores">
       <map>
