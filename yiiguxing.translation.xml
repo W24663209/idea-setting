@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="get Freeze Assets" />
+      <item value="update Assets" />
+      <item value="DEDUCT ASSETS NO FREEZE" />
+      <item value="OPERATE TYPE" />
       <item value="get Notice Status Desc" />
       <item value="query Instead Order Page List" />
       <item value="payed" />
@@ -50,10 +54,6 @@
       <item value="消费" />
       <item value="get Entity" />
       <item value="INVITATION PROFIT SHARE fail" />
-      <item value="分润" />
-      <item value="multiply" />
-      <item value="dealer User Id" />
-      <item value="Index 8 out of bounds for length 8" />
     </histories>
     <option name="languageScores">
       <map>
