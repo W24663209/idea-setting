@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="pay.cashpatti.com: nodename nor servname provided, or not known" />
       <item value="ADD ASSETS NO FREEZE" />
       <item value="DEDUCT ASSETS NO FREEZE" />
       <item value="deduct Assets No Freeze" />
@@ -53,7 +54,6 @@
       <item value="邀请人数查询" />
       <item value="Invitation Profit Share" />
       <item value="discard" />
-      <item value="丢弃" />
     </histories>
     <option name="languageScores">
       <map>
