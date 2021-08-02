@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Result Map" />
       <item value="batch" />
       <item value="parameterize" />
       <item value="prepare" />
@@ -53,7 +54,6 @@
       <item value="query Today Invites List" />
       <item value="query Today Invites Num" />
       <item value="query Invites Num" />
-      <item value="query Invites Number" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1626751413373" />
+    <option name="lastTrimTime" value="1627897763930" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
