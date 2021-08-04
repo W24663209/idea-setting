@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="save Instead Pay Order" />
       <item value="Result Map" />
       <item value="batch" />
       <item value="parameterize" />
@@ -53,7 +54,6 @@
       <item value="get Today Start" />
       <item value="query Today Invites List" />
       <item value="query Today Invites Num" />
-      <item value="query Invites Num" />
     </histories>
     <option name="languageScores">
       <map>
