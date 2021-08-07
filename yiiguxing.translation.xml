@@ -4,6 +4,10 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Settlement Cycle" />
+      <item value="周期" />
+      <item value="结算" />
+      <item value="结算周期" />
       <item value="negate" />
       <item value="save Instead Pay Order" />
       <item value="Result Map" />
@@ -50,10 +54,6 @@
       <item value="query Invites User List" />
       <item value="query Invites List" />
       <item value="query Invites Income" />
-      <item value="query Invites Today Income" />
-      <item value="get Start Today" />
-      <item value="get Today Start" />
-      <item value="query Today Invites List" />
     </histories>
     <option name="languageScores">
       <map>
