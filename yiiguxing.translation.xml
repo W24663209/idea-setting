@@ -4,6 +4,26 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Result Map" />
+      <item value="batch" />
+      <item value="parameterize" />
+      <item value="prepare" />
+      <item value="pay.cashpatti.com: nodename nor servname provided, or not known" />
+      <item value="ADD ASSETS NO FREEZE" />
+      <item value="DEDUCT ASSETS NO FREEZE" />
+      <item value="deduct Assets No Freeze" />
+      <item value="SETTLEMENT POLYMER PLATFORM ACCOUNT" />
+      <item value="POLYMER PLATFORM ACCOUNT" />
+      <item value="get Freeze Assets" />
+      <item value="update Assets" />
+      <item value="OPERATE TYPE" />
+      <item value="get Notice Status Desc" />
+      <item value="query Instead Order Page List" />
+      <item value="payed" />
+      <item value="before" />
+      <item value="query Receive Payment Order Tmp List" />
+      <item value="代收订单列表" />
+      <item value="临时代收订单列表" />
       <item value="subtract" />
       <item value="merchant Charge" />
       <item value="set Scale" />
@@ -34,26 +54,6 @@
       <item value="query Today Invites List" />
       <item value="query Today Invites Num" />
       <item value="query Invites Num" />
-      <item value="query Invites Number" />
-      <item value="邀请人数查询" />
-      <item value="Invitation Profit Share" />
-      <item value="discard" />
-      <item value="丢弃" />
-      <item value="队列" />
-      <item value="消费" />
-      <item value="get Entity" />
-      <item value="INVITATION PROFIT SHARE fail" />
-      <item value="分润" />
-      <item value="multiply" />
-      <item value="dealer User Id" />
-      <item value="Index 8 out of bounds for length 8" />
-      <item value="read Pointcut" />
-      <item value="Enable Transaction Management" />
-      <item value="A bean with that name has already been defined and overriding is disabled." />
-      <item value="The bean 'client-provider.FeignClientSpecification' could not be registered" />
-      <item value="back" />
-      <item value="backup" />
-      <item value="Wk Order Ads Entity" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1623830933066" />
+    <option name="lastTrimTime" value="1627897763930" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
