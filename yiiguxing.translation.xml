@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Cannot construct instance of" />
       <item value="Around" />
       <item value="Could not resolve placeholder" />
       <item value="require Non Null" />
@@ -53,7 +54,6 @@
       <item value="query Invites Income" />
       <item value="query Invites Today Income" />
       <item value="get Start Today" />
-      <item value="get Today Start" />
     </histories>
     <option name="languageScores">
       <map>
