@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="handle Request" />
       <item value="set Response Body Advice" />
       <item value="Constraint" />
       <item value="Cannot construct instance of" />
@@ -53,7 +54,6 @@
       <item value="profit Share" />
       <item value="query Invites User List" />
       <item value="query Invites List" />
-      <item value="query Invites Income" />
     </histories>
     <option name="languageScores">
       <map>
