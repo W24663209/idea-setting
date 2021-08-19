@@ -4,8 +4,15 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
-      <item value="ANNOTATION TYPE" />
+      <item value="finalize" />
+      <item value="Converter" />
+      <item value="on Param" />
+      <item value="Target" />
+      <item value="Retention" />
       <item value="Any Annotation" />
+      <item value="value" />
+      <item value="SOURCE" />
+      <item value="ANNOTATION TYPE" />
       <item value="o return value handler" />
       <item value="Concurrent Result Handler Method" />
       <item value="create Attribute" />
@@ -47,13 +54,6 @@
       <item value="The error occurred while setting parameters" />
       <item value="query Agent Channel Rate Set" />
       <item value="聚合" />
-      <item value="comment" />
-      <item value="Lookup method resolution failed" />
-      <item value="no Freeze" />
-      <item value="冻结" />
-      <item value="Duplicate entry '2021040136260864-OTC_10134583556392_1617290059357-6-12-1' for key 'index_unique'" />
-      <item value="keep Decimal" />
-      <item value="小数" />
     </histories>
     <option name="languageScores">
       <map>
