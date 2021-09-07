@@ -4,6 +4,16 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="处理中" />
+      <item value="cannot be cast to com.baomidou.mybatisplus.core.toolkit.support.SFunction" />
+      <item value="subtract" />
+      <item value="减" />
+      <item value="代收结算" />
+      <item value="条件" />
+      <item value="seconds" />
+      <item value="payment mode" />
+      <item value="BENEFICIARY TYPE" />
+      <item value="PAYMENT MODE" />
       <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="Parameter 'billType' not found. Available parameters are [vo, page, param1, param2]" />
       <item value="The driver has not received any packets from the server." />
@@ -44,16 +54,6 @@
       <item value="prepare" />
       <item value="pay.cashpatti.com: nodename nor servname provided, or not known" />
       <item value="ADD ASSETS NO FREEZE" />
-      <item value="DEDUCT ASSETS NO FREEZE" />
-      <item value="deduct Assets No Freeze" />
-      <item value="SETTLEMENT POLYMER PLATFORM ACCOUNT" />
-      <item value="POLYMER PLATFORM ACCOUNT" />
-      <item value="get Freeze Assets" />
-      <item value="update Assets" />
-      <item value="OPERATE TYPE" />
-      <item value="get Notice Status Desc" />
-      <item value="query Instead Order Page List" />
-      <item value="payed" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630214162917" />
+    <option name="lastTrimTime" value="1630666705388" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
