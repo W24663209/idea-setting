@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="结算状态" />
       <item value="CHANNEL FREEZE part SETTLEMENT" />
       <item value="部分" />
       <item value="部分发放" />
@@ -53,7 +54,6 @@
       <item value="Around" />
       <item value="Could not resolve placeholder" />
       <item value="require Non Null" />
-      <item value="Result Map" />
     </histories>
     <option name="languageScores">
       <map>
