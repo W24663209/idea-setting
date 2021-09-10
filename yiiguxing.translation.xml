@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="CHANNEL FREEZE part SETTLEMENT" />
+      <item value="部分" />
+      <item value="部分发放" />
+      <item value="Channel freeze no SETTLEMENT" />
+      <item value="通道冻结" />
       <item value="处理中" />
       <item value="cannot be cast to com.baomidou.mybatisplus.core.toolkit.support.SFunction" />
       <item value="subtract" />
@@ -49,11 +54,6 @@
       <item value="Could not resolve placeholder" />
       <item value="require Non Null" />
       <item value="Result Map" />
-      <item value="batch" />
-      <item value="parameterize" />
-      <item value="prepare" />
-      <item value="pay.cashpatti.com: nodename nor servname provided, or not known" />
-      <item value="ADD ASSETS NO FREEZE" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1630666705388" />
+    <option name="lastTrimTime" value="1631254743311" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
