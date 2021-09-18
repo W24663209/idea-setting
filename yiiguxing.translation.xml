@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Deprecated" />
       <item value="INSTEAD PAY" />
       <item value="DEFAULT INCOMPATIBLE IMPROVEMENTS" />
       <item value="再次" />
@@ -53,7 +54,6 @@
       <item value="register Handlers" />
       <item value="handle Request" />
       <item value="set Response Body Advice" />
-      <item value="Constraint" />
     </histories>
     <option name="languageScores">
       <map>
