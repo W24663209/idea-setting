@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="INSTEAD PAY" />
       <item value="DEFAULT INCOMPATIBLE IMPROVEMENTS" />
       <item value="再次" />
       <item value="重发" />
@@ -53,7 +54,6 @@
       <item value="handle Request" />
       <item value="set Response Body Advice" />
       <item value="Constraint" />
-      <item value="Cannot construct instance of" />
     </histories>
     <option name="languageScores">
       <map>
