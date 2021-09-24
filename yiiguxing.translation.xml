@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="multiple points" />
       <item value="Retention" />
       <item value="remove Binding By Merchant" />
       <item value="Remove Binding By Merchant" />
@@ -53,7 +54,6 @@
       <item value="create Attribute" />
       <item value="construct Attribute" />
       <item value="Model Attribute Method Processor" />
-      <item value="handler" />
     </histories>
     <option name="languageScores">
       <map>
