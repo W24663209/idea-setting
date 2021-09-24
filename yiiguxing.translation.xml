@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Retention" />
       <item value="remove Binding By Merchant" />
       <item value="Remove Binding By Merchant" />
       <item value="Remove Binding" />
@@ -43,7 +44,6 @@
       <item value="Converter" />
       <item value="on Param" />
       <item value="Target" />
-      <item value="Retention" />
       <item value="Any Annotation" />
       <item value="value" />
       <item value="SOURCE" />
