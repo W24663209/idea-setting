@@ -4,6 +4,13 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="remove Agent Relation For Merchant By Channel" />
+      <item value="remove Agent Relation For Merchant" />
+      <item value="删除商户与代理的关系" />
+      <item value="remove Agent Relation By Merchant" />
+      <item value="关系" />
+      <item value="联系" />
+      <item value="remove Agent By Merchant" />
       <item value="polymer pay out lock" />
       <item value="multiple points" />
       <item value="Retention" />
@@ -47,13 +54,6 @@
       <item value="on Param" />
       <item value="Target" />
       <item value="Any Annotation" />
-      <item value="value" />
-      <item value="SOURCE" />
-      <item value="ANNOTATION TYPE" />
-      <item value="o return value handler" />
-      <item value="Concurrent Result Handler Method" />
-      <item value="create Attribute" />
-      <item value="construct Attribute" />
     </histories>
     <option name="languageScores">
       <map>
