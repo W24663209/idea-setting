@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Deprecated" />
       <item value="is Interface" />
       <item value="is Instance" />
       <item value="et" />
@@ -21,7 +22,6 @@
       <item value="remove Binding By Merchant" />
       <item value="Remove Binding By Merchant" />
       <item value="Remove Binding" />
-      <item value="Deprecated" />
       <item value="INSTEAD PAY" />
       <item value="DEFAULT INCOMPATIBLE IMPROVEMENTS" />
       <item value="再次" />
