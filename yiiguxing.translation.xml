@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="代理流水表" />
       <item value="批量" />
       <item value="unwrap" />
       <item value="build Constraint Violation With Template" />
@@ -53,7 +54,6 @@
       <item value="The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server." />
       <item value="get Instance" />
       <item value="get Time Zone" />
-      <item value="ENGLISH" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1632458866721" />
+    <option name="lastTrimTime" value="1632983897088" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
