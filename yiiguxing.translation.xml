@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="free Memory" />
       <item value="query All List Of Search" />
       <item value="Beneficiary Not Acceptable" />
       <item value="product" />
@@ -53,7 +54,6 @@
       <item value="PAYMENT MODE" />
       <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="Parameter 'billType' not found. Available parameters are [vo, page, param1, param2]" />
-      <item value="The driver has not received any packets from the server." />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635056796000" />
+    <option name="lastTrimTime" value="1635505743774" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
