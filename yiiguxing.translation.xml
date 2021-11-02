@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="register Natives" />
       <item value="free Memory" />
       <item value="query All List Of Search" />
       <item value="Beneficiary Not Acceptable" />
@@ -53,7 +54,6 @@
       <item value="BENEFICIARY TYPE" />
       <item value="PAYMENT MODE" />
       <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
-      <item value="Parameter 'billType' not found. Available parameters are [vo, page, param1, param2]" />
     </histories>
     <option name="languageScores">
       <map>
