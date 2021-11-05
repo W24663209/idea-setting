@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="throw Ex" />
       <item value="upload Bill By Channel And Date" />
       <item value="register Natives" />
       <item value="free Memory" />
@@ -53,7 +54,6 @@
       <item value="seconds" />
       <item value="payment mode" />
       <item value="BENEFICIARY TYPE" />
-      <item value="PAYMENT MODE" />
     </histories>
     <option name="languageScores">
       <map>
