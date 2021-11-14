@@ -4,6 +4,11 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="Public Key Retrieval is not allowed" />
+      <item value="throw Ex" />
+      <item value="upload Bill By Channel And Date" />
+      <item value="register Natives" />
+      <item value="free Memory" />
       <item value="query All List Of Search" />
       <item value="Beneficiary Not Acceptable" />
       <item value="product" />
@@ -49,11 +54,6 @@
       <item value="条件" />
       <item value="seconds" />
       <item value="payment mode" />
-      <item value="BENEFICIARY TYPE" />
-      <item value="PAYMENT MODE" />
-      <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
-      <item value="Parameter 'billType' not found. Available parameters are [vo, page, param1, param2]" />
-      <item value="The driver has not received any packets from the server." />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1635056796000" />
+    <option name="lastTrimTime" value="1636540352571" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
