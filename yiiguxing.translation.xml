@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="操作" />
       <item value="get Order Name" />
       <item value="PARAMETER" />
       <item value="Public Key Retrieval is not allowed" />
@@ -53,7 +54,6 @@
       <item value="subtract" />
       <item value="减" />
       <item value="代收结算" />
-      <item value="条件" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1636540352571" />
+    <option name="lastTrimTime" value="1639198163125" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
