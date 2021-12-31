@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinNewTranslationDialog" value="true" />
     <histories>
+      <item value="no DEPEND" />
       <item value="操作" />
       <item value="get Order Name" />
       <item value="PARAMETER" />
@@ -53,7 +54,6 @@
       <item value="cannot be cast to com.baomidou.mybatisplus.core.toolkit.support.SFunction" />
       <item value="subtract" />
       <item value="减" />
-      <item value="代收结算" />
     </histories>
     <option name="languageScores">
       <map>
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1639198163125" />
+    <option name="lastTrimTime" value="1640953908941" />
   </component>
   <component name="Settings">
     <option name="googleTranslateSettings">
