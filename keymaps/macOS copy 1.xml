@@ -15,4 +15,8 @@
   <action id="OnlineSearch.EditorActions.ShowSearchEnginesAction">
     <keyboard-shortcut first-keystroke="shift meta s" />
   </action>
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
 </keymap>
