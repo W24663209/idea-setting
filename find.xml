@@ -4,9 +4,9 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.yml</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.cpp</mask>
+    <mask>*.xml</mask>
   </component>
 </application>

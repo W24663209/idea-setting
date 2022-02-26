@@ -2,14 +2,17 @@
   <component name="MyBatisCodeHelper">
     <option name="profile">
       <Profile>
+        <option name="delimeteAllColumn" value="true" />
         <option name="foldGeneratedMethod" value="true" />
         <option name="generateMethodInService" value="true" />
         <option name="generateMethodInServiceInterface" value="true" />
         <option name="ifTestStringNullAndEmpty" value="true" />
+        <option name="useActualParamNames" value="true" />
         <option name="userMacSet">
           <set>
             <option value="00-A0-C6-00-00-00" />
             <option value="80-A4-73-68-00-29" />
+            <option value="80-FA-5B-6D-56-04" />
             <option value="8C-C6-81-91-F2-6C" />
           </set>
         </option>
