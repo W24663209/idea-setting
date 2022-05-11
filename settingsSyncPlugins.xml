@@ -29,6 +29,11 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.intellij.guice">
+          <value>
+            <PluginData />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
