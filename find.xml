@@ -9,5 +9,6 @@
     <mask>*.java</mask>
     <mask>*.cpp</mask>
     <mask>*controller.java</mask>
+    <mask>*impl.java</mask>
   </component>
 </application>
