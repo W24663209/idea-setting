@@ -2,7 +2,6 @@
   <component name="AppStorage">
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
-    <option name="pinNewTranslationDialog" value="true" />
     <histories>
       <item value="query Place Order Time By Channel List" />
       <item value="mapper Locations" />
@@ -72,11 +71,6 @@
     <option name="lastTrimTime" value="1646978761622" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="useTranslateGoogleCom" value="true" />
-      </google-translate>
-    </option>
     <option name="showWordForms" value="false" />
   </component>
 </application>
