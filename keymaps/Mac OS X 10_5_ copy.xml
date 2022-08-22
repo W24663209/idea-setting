@@ -25,12 +25,12 @@
   <action id="FlutterBloc.New">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
-  <action id="FullyExpandTreeNode">
-    <keyboard-shortcut first-keystroke="multiply" />
-    <keyboard-shortcut first-keystroke="meta back_slash" />
-  </action>
   <action id="SaveAs" />
   <action id="ShelveChanges.UnshelveWithDialog" />
+  <action id="Tool.GotoRequestService">
+    <keyboard-shortcut first-keystroke="meta alt slash" />
+    <keyboard-shortcut first-keystroke="meta back_slash" />
+  </action>
   <action id="Uml.CollapseNodes">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
