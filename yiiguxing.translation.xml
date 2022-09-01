@@ -3,6 +3,7 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="east Asia" />
       <item value="blip Fill" />
       <item value="left" />
       <item value="ascii" />
@@ -52,12 +53,11 @@
       <item value="get Default Constraint Message Template" />
       <item value="get Clock Provider" />
       <item value="Deprecated" />
-      <item value="is Interface" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="251" />
+        <entry key="CHINESE" value="251" />
+        <entry key="ENGLISH" value="252" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -69,7 +69,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1661421390151" />
+    <option name="lastTrimTime" value="1661998741392" />
   </component>
   <component name="Settings">
     <option name="showWordForms" value="false" />
