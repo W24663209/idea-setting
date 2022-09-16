@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="Error creating bean with name 'redisClient' defined in class path resource [comskillthreadRedissonConfig.class]: Bean instantiation via factory method failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [org.redisson.api.RedissonClient]: Factory method 'redisClient' threw exception; nested exception is java.lang.reflect.InaccessibleObjectException: Unable to make field private final byte[] java.lang.String.value accessible: module java.base does not &quot;opens java.lang&quot; to unnamed module @72bc6553" />
+      <item value="Unable to make field private final byte[] java.lang.String.value accessible: module java.base does not &quot;opens java.lang&quot; to unnamed module @72bc6553" />
       <item value="cannot be opened because it does not exist" />
       <item value="Failed to parse configuration clas" />
       <item value="anonymous" />
@@ -51,13 +53,11 @@
       <item value="space" />
       <item value="pixel Height" />
       <item value="pixel Width" />
-      <item value="Template not found for name &quot;UsersweizongtangIdeaProjectsworkTesttargetclassesftldesignTemplate.ftl&quot;." />
-      <item value="INSTANCE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="293" />
-        <entry key="ENGLISH" value="294" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
