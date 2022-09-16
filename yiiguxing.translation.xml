@@ -3,6 +3,11 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot; response header. To allow credentials to a set of origins, list them explicitly or consider using &quot;allowedOriginPatterns&quot; instead." />
+      <item value="Socket is closed" />
+      <item value="millis" />
+      <item value="Failed to instantiate [org.springframework.web.servlet.HandlerMapping]: Factory method 'resourceHandlerMapping' threw exception; nested exception is java.lang.IllegalStateException: No ServletContext set" />
+      <item value="Unable to locate the default servlet for serving static content. Please set the 'defaultServletName' property explicitly" />
       <item value="Unable to load cache item" />
       <item value="[ERROR] 'dependencies.dependency.version' for com.skill:skill-wechat-miniapp:jar is missing. @ line 36, column 21&#10;" />
       <item value="org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:&#10;" />
@@ -48,16 +53,11 @@
       <item value="The following has evaluated to null or missing:" />
       <item value="Exception message was already printed; see it above" />
       <item value="Syntax error in template" />
-      <item value="you're using FreeMarker 2.3.31." />
-      <item value="rsid R" />
-      <item value="east Asia" />
-      <item value="blip Fill" />
-      <item value="left" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="299" />
-        <entry key="ENGLISH" value="299" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
