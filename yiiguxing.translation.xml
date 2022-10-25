@@ -3,6 +3,8 @@
     <option name="newTranslationDialogX" value="814" />
     <option name="newTranslationDialogY" value="473" />
     <histories>
+      <item value="Push Token Dto" />
+      <item value="restapi.getui.com" />
       <item value="Identify and stop the process that's listening on port 8080 or configure this application to listen on another port." />
       <item value="closing inbound before receiving peer's close_notify" />
       <item value="NOAUTH HELLO must be called with the client already authenticated, otherwise the HELLO AUTH &lt;user&gt; &lt;pass&gt; option can be used to authenticate the client and select the RESP protocol version at the same time" />
@@ -51,13 +53,11 @@
       <item value="cannot be opened because it does not exist" />
       <item value="Failed to parse configuration clas" />
       <item value="anonymous" />
-      <item value="No qualifying bean of type" />
-      <item value="DataSource name not set." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="335" />
-        <entry key="ENGLISH" value="336" />
+        <entry key="CHINESE" value="337" />
+        <entry key="ENGLISH" value="337" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
