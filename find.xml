@@ -7,9 +7,9 @@
     <mask>*controller.java</mask>
     <mask>*impl.java</mask>
     <mask>pom.xml</mask>
-    <mask>*.yml</mask>
     <mask>*.java</mask>
     <mask>*.SQL</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
