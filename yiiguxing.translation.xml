@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="签名类型错误" />
       <item value="金额不能为空" />
       <item value="amount not null" />
       <item value="cn.bensun.emuns.ResultCodeEnum cannot be cast to cn.bensun.core.domain.PayInRes" />
@@ -53,12 +54,11 @@
       <item value="When allowCredentials is true, allowedOrigins cannot contain the special value &quot;&quot; since that cannot be set on the &quot;Access-Control-Allow-Origin&quot; response header. To allow credentials to a set of origins, list them explicitly or consider using &quot;allowedOriginPatterns&quot; instead." />
       <item value="Socket is closed" />
       <item value="millis" />
-      <item value="Failed to instantiate [org.springframework.web.servlet.HandlerMapping]: Factory method 'resourceHandlerMapping' threw exception; nested exception is java.lang.IllegalStateException: No ServletContext set" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="350" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
