@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="One record is expected, but the query result is multiple records" />
       <item value="nested exception is org.apache.ibatis.exceptions.PersistenceException:" />
       <item value="error may exist in cnbensunmapperCollectionPollingMapper.java (best guess)" />
       <item value="best guess" />
@@ -53,12 +54,11 @@
       <item value="计算" />
       <item value="R-C滤波器" />
       <item value="电子元器件计算" />
-      <item value="电子元器件" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="357" />
-        <entry key="ENGLISH" value="358" />
+        <entry key="CHINESE" value="358" />
+        <entry key="ENGLISH" value="359" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
