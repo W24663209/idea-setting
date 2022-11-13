@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Parameter 'date' not found. Available parameters are [arg2, arg1, arg0, param3, param1, param2]" />
       <item value="商家结算" />
       <item value="; Duplicate entry 'PAY-IN-5A74417FE0BF41358DF1035CA46ABDAD' for key 'select_one_for_update'; nested exception is java.sql.SQLIntegrityConstraintViolationException: Duplicate entry 'PAY-IN-5A74417FE0BF41358DF1035CA46ABDAD' for key 'select_one_for_update'" />
       <item value="&lt;!DOCTYPE HTML PUBLIC &quot;-W3CDTD HTML 3.2 FinalEN&quot;&gt;" />
@@ -53,7 +54,6 @@
       <item value="Incorrect signature" />
       <item value="签名类型错误" />
       <item value="金额不能为空" />
-      <item value="amount not null" />
     </histories>
     <option name="languageScores">
       <map>
