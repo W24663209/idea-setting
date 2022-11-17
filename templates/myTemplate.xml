@@ -1,5 +1,5 @@
 <templateSet group="myTemplate">
-  <template name=".." value="/**&#10; * @Description &#10; * @CreatedBy weizongtang&#10; * @CreateTime $date$&#10; */" shortcut="ENTER" description="方法模板" toReformat="false" toShortenFQNames="true">
+  <template name=".." value="/**&#10; * @Description &#10; * @author weizongtang&#10; * @CreateTime $date$&#10; */" shortcut="ENTER" description="方法模板" toReformat="false" toShortenFQNames="true">
     <variable name="date" expression="date(&quot;YYYY/MM/dd HH:mm:ss&quot;)&#9;" defaultValue="" alwaysStopAt="false" />
     <context>
       <option name="JAVA_DECLARATION" value="true" />
