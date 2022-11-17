@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="余额" />
       <item value="Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)" />
       <item value="convert failed. str:" />
       <item value="Could not write JSON: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is org.springframework.messaging.converter.MessageConversionException: Could not write JSON: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;])" />
@@ -53,7 +54,6 @@
       <item value="比较" />
       <item value="'\xE6\x94\xAF\xE4\xBB\x98...' for column 'remark' at row 1" />
       <item value="Invalid ID for ZoneOffset, invalid format: AsiaKolkata" />
-      <item value="of Hours Minutes" />
     </histories>
     <option name="languageScores">
       <map>
