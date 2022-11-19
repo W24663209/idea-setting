@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="exclude Transitive" />
+      <item value="exists" />
       <item value="If you have database settings to be loaded from a particular profile you may need to activate it (the profiles -Duser.timezone=GMT+5:30 are currently active)." />
       <item value="{&quot;status&quot;:&quot;FAILURE&quot;,&quot;message&quot;:&quot;INVALID Transfer Type&quot;,&quot;timestamp&quot;:&quot;17-Nov-2022 17:58:52 Thursday&quot;,&quot;data&quot;:null}" />
       <item value="余额" />
@@ -52,13 +54,11 @@
       <item value="Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@19900be7]" />
       <item value="Could not open JDBC Connection for transaction; nested exception is java.sql.SQLTransientConnectionException: DatebookHikariCP - Connection is not available, request timed out after 30838ms." />
       <item value="One record is expected, but the query result is multiple records" />
-      <item value="subtract" />
-      <item value="比较" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="407" />
-        <entry key="ENGLISH" value="408" />
+        <entry key="CHINESE" value="409" />
+        <entry key="ENGLISH" value="410" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
