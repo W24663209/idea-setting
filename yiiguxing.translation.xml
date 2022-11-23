@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="SSLHandshakeException: Remote host closed connection during handshake" />
       <item value="Rocket MQ Push Consumer Lifecycle Listener" />
       <item value="There is no getter for property named 'startTime' in 'class com.ruoyi.order.domain.Payment'" />
       <item value="代付虽" />
@@ -53,7 +54,6 @@
       <item value="SECONDS" />
       <item value="Role" />
       <item value="combination Count" />
-      <item value="arrangement Count" />
     </histories>
     <option name="languageScores">
       <map>
