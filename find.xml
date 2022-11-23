@@ -9,7 +9,8 @@
     <mask>pom.xml</mask>
     <mask>*.SQL</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
