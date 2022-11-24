@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Required request parameter 'amount' for method parameter type String is not present" />
       <item value="操作商家金额类型" />
       <item value="pointcut" />
       <item value="SSLHandshakeException: Remote host closed connection during handshake" />
@@ -53,7 +54,6 @@
       <item value="Exception In Initializer Error" />
       <item value="找不到service" />
       <item value="余额不足" />
-      <item value="SECONDS" />
     </histories>
     <option name="languageScores">
       <map>
