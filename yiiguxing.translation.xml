@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Required request parameter 'settlementTime' for method parameter type List is not present" />
       <item value="If redirect parameter value 1 is passed, it will redirect to the payment page." />
       <item value="{&quot;txnpwd&quot;:&quot;@Mavi&quot;,&quot;name&quot;:&quot;IN 202281021900127593414526399&quot;,&quot;mobile&quot;:&quot;7366988754&quot;,&quot;refid&quot;:&quot;IN 202281021900127593414526399&quot;,&quot;memberid&quot;:&quot;CRNPAPI 063951&quot;}" />
       <item value="Sorry ! Parameters are missing" />
@@ -53,12 +54,11 @@
       <item value="&lt;!DOCTYPE HTML PUBLIC &quot;-W3CDTD HTML 3.2 FinalEN&quot;&gt;" />
       <item value="Cannot deserialize value of type `com.ruoyi.merchant.domain.Merchant` from Array value (token `JsonToken.START_ARRAY`)" />
       <item value="org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Cannot deserialize value of type `com.ruoyi.merchant.domain.Merchant` from Array value (token `JsonToken.START_ARRAY`); nested exception is com.fasterxml.jackson.databind.exc.MismatchedInputException: Cannot deserialize value of type `com.ruoyi.merchant.domain.Merchant` from Array value (token `JsonToken.START_ARRAY`)" />
-      <item value="scan Package By Super" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="414" />
-        <entry key="ENGLISH" value="415" />
+        <entry key="CHINESE" value="415" />
+        <entry key="ENGLISH" value="416" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668602171399" />
+    <option name="lastTrimTime" value="1670383137209" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
