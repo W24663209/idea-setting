@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Enter valid MID available in the Developer’s section" />
       <item value="&lt;EOL&gt; Cause: java.lang.UnsupportedOperationException]" />
       <item value="通道关闭" />
       <item value="MINUTES" />
@@ -53,7 +54,6 @@
       <item value="com.ruoyi.quartz.domain.phonepe.RequestProperty; local class incompatible: stream classdesc serialVersionUID = 3837843048784387955, local class serialVersionUID = 1" />
       <item value="com.ruoyi.quartz.domain.phonepe.RequestProperty; local class incompatible: stream classdesc serialVersionUID = 3837843048784387955, local class serialVersionUID = -4907450227072233951" />
       <item value="transaction Type" />
-      <item value="total Results" />
     </histories>
     <option name="languageScores">
       <map>
