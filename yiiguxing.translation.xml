@@ -4,6 +4,20 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Enter valid terminal key (API Key)" />
+      <item value="Eneter valid https cancel url where payment page will redirect id customer cancelled the transaction" />
+      <item value="Eneter valid https fail url where payment page will redirect after transaction performed as failed" />
+      <item value="Eneter valid https success url where payment page will redirect after transaction performed as captured" />
+      <item value="Enter valid title which will display on your payment page" />
+      <item value="Enter your customer last name" />
+      <item value="Enter your customer first name" />
+      <item value="Enter your customer valid mobile number" />
+      <item value="Enter your customer valid email id" />
+      <item value="Your unique order id to identify and reconcile transation details" />
+      <item value="Enter description to identify your transaction" />
+      <item value="Charge amount with 100 multiplier. e.g capture amount is 300.50 then enter amount as 30050." />
+      <item value="The code of the currency. One of currency code is required" />
+      <item value="Enter valid password available in developer section" />
       <item value="Enter valid MID available in the Developer’s section" />
       <item value="&lt;EOL&gt; Cause: java.lang.UnsupportedOperationException]" />
       <item value="通道关闭" />
@@ -40,25 +54,11 @@
       <item value="余额" />
       <item value="Cannot deserialize value of type `java.lang.String` from Object value (token `JsonToken.START_OBJECT`)" />
       <item value="convert failed. str:" />
-      <item value="Could not write JSON: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is org.springframework.messaging.converter.MessageConversionException: Could not write JSON: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;]); nested exception is com.fasterxml.jackson.databind.exc.InvalidDefinitionException: Java 8 datetime type `java.time.LocalDateTime` not supported by default: add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling (through reference chain: com.ruoyi.common.rocketmq.RocketMQEntity[&quot;t&quot;]-&gt;com.ruoyi.order.domain.Payment[&quot;createdTime&quot;])" />
-      <item value="add Module &quot;com.fasterxml.jackson.datatype:jackson-datatype-jsr310&quot; to enable handling" />
-      <item value="Invalid Credentials" />
-      <item value="FAILURE" />
-      <item value="Username - field missed, pleasec check" />
-      <item value="Releasing transactional SqlSession [org.apache.ibatis.session.defaults.DefaultSqlSession@a9f4435]" />
-      <item value="The error may involve cn.bensun.service.mapper.PaymentChannelRateMapper.selectList" />
-      <item value="The consumer group[group_pay_out_topic] has been created before, specify another name please." />
-      <item value="Failed to start RocketMQ push consumer" />
-      <item value="批量" />
-      <item value="Error request, response status: 403" />
-      <item value="com.ruoyi.quartz.domain.phonepe.RequestProperty; local class incompatible: stream classdesc serialVersionUID = 3837843048784387955, local class serialVersionUID = 1" />
-      <item value="com.ruoyi.quartz.domain.phonepe.RequestProperty; local class incompatible: stream classdesc serialVersionUID = 3837843048784387955, local class serialVersionUID = -4907450227072233951" />
-      <item value="transaction Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="416" />
-        <entry key="ENGLISH" value="417" />
+        <entry key="CHINESE" value="432" />
+        <entry key="ENGLISH" value="433" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1670383137209" />
+    <option name="lastTrimTime" value="1675232507548" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
