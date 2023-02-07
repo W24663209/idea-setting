@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fixed Rate" />
       <item value="ACCEPTED" />
       <item value="Enter valid bank transfer mode. Possible values" />
       <item value="Enter valid bank transfer mode. Possible values &quot;NEFT&quot;, &quot;RTGS&quot; and &quot;IMPS&quot;" />
@@ -53,7 +54,6 @@
       <item value="Rocket MQ Push Consumer Lifecycle Listener" />
       <item value="There is no getter for property named 'startTime' in 'class com.ruoyi.order.domain.Payment'" />
       <item value="代付虽" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
@@ -70,7 +70,7 @@
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1675232507548" />
+    <option name="lastTrimTime" value="1675759149467" />
   </component>
   <component name="Settings">
     <option name="aliTranslateSettings">
