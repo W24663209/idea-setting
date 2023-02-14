@@ -9,6 +9,7 @@
       <mapping ext="dll" type="PLAIN_TEXT" />
       <mapping ext="log" type="PLAIN_TEXT" />
       <mapping ext="pem" type="PLAIN_TEXT" />
+      <mapping ext="conf" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="dll" approved="true" type="UNKNOWN" />
       <removed_mapping ext="psd" approved="true" type="Image" />
