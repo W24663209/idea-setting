@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="set Scale" />
       <item value="beni acc no" />
       <item value="sender Name" />
       <item value="payment Ref" />
@@ -53,12 +54,11 @@
       <item value="Enter valid password available in developer section" />
       <item value="Enter valid MID available in the Developer’s section" />
       <item value="&lt;EOL&gt; Cause: java.lang.UnsupportedOperationException]" />
-      <item value="通道关闭" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="470" />
-        <entry key="ENGLISH" value="470" />
+        <entry key="ENGLISH" value="471" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
