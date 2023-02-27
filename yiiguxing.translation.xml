@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="fulfillment status" />
       <item value="do Convert Message" />
       <item value="convert And Send" />
       <item value="Receive" />
@@ -53,7 +54,6 @@
       <item value="Enter valid title which will display on your payment page" />
       <item value="Enter your customer last name" />
       <item value="Enter your customer first name" />
-      <item value="Enter your customer valid mobile number" />
     </histories>
     <option name="languageScores">
       <map>
