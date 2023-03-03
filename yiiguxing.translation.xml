@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="with Initial" />
       <item value="beneficiary" />
       <item value="get Canonical Host Name" />
       <item value="MINUTES" />
@@ -53,12 +54,11 @@
       <item value="Enter valid terminal key (API Key)" />
       <item value="Eneter valid https cancel url where payment page will redirect id customer cancelled the transaction" />
       <item value="Eneter valid https fail url where payment page will redirect after transaction performed as failed" />
-      <item value="Eneter valid https success url where payment page will redirect after transaction performed as captured" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="479" />
-        <entry key="ENGLISH" value="480" />
+        <entry key="CHINESE" value="480" />
+        <entry key="ENGLISH" value="481" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
