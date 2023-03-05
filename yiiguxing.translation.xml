@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="milliseconds" />
+      <item value="timeout" />
       <item value="minimum-idle" />
       <item value="maximum-pool-size" />
       <item value="maximum" />
@@ -52,13 +54,11 @@
       <item value="Enter true if want to schedule transaction if account balance if low" />
       <item value="Enter description to identify your transaction" />
       <item value="Charge amount with 100 multiplier. e.g capture amount is 300.50 then enter amount as 30050" />
-      <item value="The code of the currency. One of currency code is required" />
-      <item value="The code of the currency. One of currency code is required.\t" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="482" />
-        <entry key="ENGLISH" value="483" />
+        <entry key="CHINESE" value="484" />
+        <entry key="ENGLISH" value="485" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
