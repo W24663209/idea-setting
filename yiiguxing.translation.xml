@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="basic date" />
+      <item value="custom" />
       <item value="No converter found capable of converting from type [java.lang.String] to type [java.time.LocalDateTime]" />
       <item value="Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]" />
       <item value="Page 11 of 1 containing UNKNOWN instances" />
@@ -52,13 +54,11 @@
       <item value="mobile no" />
       <item value="trans mode" />
       <item value="trans type" />
-      <item value="Abstract Queued Synchronizer" />
-      <item value="try Release" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="557" />
-        <entry key="ENGLISH" value="558" />
+        <entry key="CHINESE" value="559" />
+        <entry key="ENGLISH" value="560" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
