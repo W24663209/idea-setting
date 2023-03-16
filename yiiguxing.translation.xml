@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Prohibited package name: java.lang" />
       <item value="next" />
       <item value="get Offset" />
       <item value="commit Batch" />
@@ -46,7 +47,6 @@
       <item value="maxFileSize property is mandatory" />
       <item value="subscribe" />
       <item value="Default MQ Producer Impl" />
-      <item value="Prohibited package name: java.lang" />
       <item value="Monitor" />
       <item value="get Interfaces" />
       <item value="submit Listenable" />
@@ -57,8 +57,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="564" />
-        <entry key="ENGLISH" value="565" />
+        <entry key="CHINESE" value="565" />
+        <entry key="ENGLISH" value="566" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
