@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="create Index If Not Created" />
+      <item value="perform Request" />
       <item value="so you are seeing this as a fallback" />
       <item value="batched reduce size" />
       <item value="Elasticsearch exception [type=search_phase_execution_exception, reason=all shards failed]" />
@@ -52,13 +54,11 @@
       <item value="maxFileSize property is mandatory" />
       <item value="subscribe" />
       <item value="Default MQ Producer Impl" />
-      <item value="Monitor" />
-      <item value="get Interfaces" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="568" />
-        <entry key="ENGLISH" value="569" />
+        <entry key="CHINESE" value="570" />
+        <entry key="ENGLISH" value="571" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
