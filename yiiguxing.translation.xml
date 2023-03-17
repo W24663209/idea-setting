@@ -4,6 +4,8 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="class org.elasticsearch.search.aggregations.bucket.terms.ParsedStringTerms cannot be cast to class org.elasticsearch.search.aggregations.metrics.sum.ParsedSum (org.elasticsearch.search.aggregations.bucket.terms.ParsedStringTerms and org.elasticsearch.search.aggregations.metrics.sum.ParsedSum are in unnamed module of loader 'app')" />
+      <item value="Unexpected end of file from server" />
       <item value="Elasticsearch exception [type=illegal_argument_exception, reason=Fielddata is disabled on text fields by default. Set fielddata=true on [channel_no] in order to load fielddata in memory by uninverting the inverted index. Note that this can however use significant memory. Alternatively use a keyword field instead.]" />
       <item value="Two sibling aggregations cannot have the same name: [merchant_fee]" />
       <item value="parameter cannot be negative" />
@@ -52,13 +54,11 @@
       <item value="for rest mode" />
       <item value="cannot be resolved to URL because it does not exist" />
       <item value="new Fixed Thread" />
-      <item value="apply" />
-      <item value="Sql Excute" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="578" />
+        <entry key="CHINESE" value="579" />
+        <entry key="ENGLISH" value="580" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
