@@ -4,5 +4,12 @@
     <option name="proxyType" value="SOCKS" />
     <option name="proxyHostname" value="127.0.0.1" />
     <option name="proxyPort" value="1081" />
+    <option name="contentOrder">
+      <map>
+        <entry key="1" value="Online ChatGPT" />
+        <entry key="2" value="ChatGPT" />
+        <entry key="3" value="GPT-3.5-Turbo" />
+      </map>
+    </option>
   </component>
 </application>
