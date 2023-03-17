@@ -4,6 +4,9 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="should" />
+      <item value="Common Terms Query Builder" />
+      <item value="common Terms Query" />
       <item value="match Query" />
       <item value="must" />
       <item value="Term Query Builder" />
@@ -51,14 +54,11 @@
       <item value="[types removal] Using include_type_name in put mapping requests is deprecated. The parameter will be removed in the next major version" />
       <item value="Reindex Request" />
       <item value="do Forward" />
-      <item value="do Backward" />
-      <item value="index" />
-      <item value="Creates or updates a document in an index." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="584" />
-        <entry key="ENGLISH" value="585" />
+        <entry key="CHINESE" value="587" />
+        <entry key="ENGLISH" value="588" />
         <entry key="ESTONIAN" value="1" />
         <entry key="BULGARIAN" value="1" />
         <entry key="POLISH" value="1" />
