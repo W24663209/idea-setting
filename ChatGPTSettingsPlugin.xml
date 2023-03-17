@@ -1,0 +1,8 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="enableProxy" value="true" />
+    <option name="proxyType" value="SOCKS" />
+    <option name="proxyHostname" value="127.0.0.1" />
+    <option name="proxyPort" value="1081" />
+  </component>
+</application>
