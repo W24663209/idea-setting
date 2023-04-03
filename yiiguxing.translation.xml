@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Could not create an Appender of type [org.apache.log4j.AsyncAppender]. ch.qos.logback.core.util.IncompatibleClassException" />
       <item value="no applicable action for [producerConfig], current ElementPath is [[configuration][appender][producerConfig]]" />
       <item value="no applicable action for [nameServer], current ElementPath is [[configuration][appender][nameServer]]" />
       <item value="suffix Overrides" />
@@ -53,7 +54,6 @@
       <item value="Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]" />
       <item value="Page 11 of 1 containing UNKNOWN instances" />
       <item value="No value present" />
-      <item value="BigDecimal not supported" />
     </histories>
     <option name="languageScores">
       <map>
