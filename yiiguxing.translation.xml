@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="reversed" />
       <item value="Send [1] times, still failed, cost [3532]ms, Topic: group_test_topic, BrokersSent: [broker-a]" />
       <item value="Could not create an Appender of type [org.apache.log4j.AsyncAppender]. ch.qos.logback.core.util.IncompatibleClassException" />
       <item value="no applicable action for [producerConfig], current ElementPath is [[configuration][appender][producerConfig]]" />
@@ -53,7 +54,6 @@
       <item value="custom" />
       <item value="No converter found capable of converting from type [java.lang.String] to type [java.time.LocalDateTime]" />
       <item value="Timestamp format must be yyyy-mm-dd hh:mm:ss[.fffffffff]" />
-      <item value="Page 11 of 1 containing UNKNOWN instances" />
     </histories>
     <option name="languageScores">
       <map>
