@@ -10,7 +10,7 @@
     <mask>*.SQL</mask>
     <mask>*.java</mask>
     <mask>*.sh</mask>
-    <mask>*.yml</mask>
     <mask>*.xml</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
