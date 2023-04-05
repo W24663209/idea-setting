@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="calc Total Resistance" />
       <item value="Capacitance Util" />
       <item value="no applicable action for [springProperty], current ElementPath is [[configuration][springProperty]]" />
       <item value="reversed" />
@@ -53,7 +54,6 @@
       <item value="basic date time" />
       <item value="syntax" />
       <item value="basic date" />
-      <item value="custom" />
     </histories>
     <option name="languageScores">
       <map>
