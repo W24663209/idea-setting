@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Capacitance Util" />
       <item value="no applicable action for [springProperty], current ElementPath is [[configuration][springProperty]]" />
       <item value="reversed" />
       <item value="Send [1] times, still failed, cost [3532]ms, Topic: group_test_topic, BrokersSent: [broker-a]" />
@@ -53,7 +54,6 @@
       <item value="syntax" />
       <item value="basic date" />
       <item value="custom" />
-      <item value="No converter found capable of converting from type [java.lang.String] to type [java.time.LocalDateTime]" />
     </histories>
     <option name="languageScores">
       <map>
