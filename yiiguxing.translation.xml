@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="pow" />
       <item value="calc Total Capacitance" />
       <item value="calc Total Resistance" />
       <item value="Capacitance Util" />
@@ -53,7 +54,6 @@
       <item value="get Offset" />
       <item value="commit Batch" />
       <item value="basic date time" />
-      <item value="syntax" />
     </histories>
     <option name="languageScores">
       <map>
