@@ -4,6 +4,7 @@
     <option name="newTranslationDialogY" value="473" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Message: code: 400, Specified signature is not matched with our calculation. server string to sign is:POST&amp;%2F&amp;AccessKeyId%3DLTAI5tNBMkM5W53ovjgzGAJG%26Action%3DSendSms%26Format%3DJSON%26PhoneNumbers%3D15086183703%26SignName%3D%26SignatureMethod%3DHMAC-SHA1%26SignatureNonce%3Da3c5482d-a9b1-441d-97b3-415d569d4b3116811189413691%26SignatureVersion%3D1.0%26TemplateCode%3D%25E6%25B5%258B%25E8%25AF%2595%25E4%25B8%2593%25E7%2594%25A8%26Timestamp%3D2023-04-10T09%253A29%253A01Z%26Version%3D2017-05-25 request id: B3B4E60F-3C8E-5CFE-96D9-2203ECBA2FA9" />
       <item value="pow" />
       <item value="calc Total Capacitance" />
       <item value="calc Total Resistance" />
@@ -53,7 +54,6 @@
       <item value="next" />
       <item value="get Offset" />
       <item value="commit Batch" />
-      <item value="basic date time" />
     </histories>
     <option name="languageScores">
       <map>
