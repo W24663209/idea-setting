@@ -38,6 +38,10 @@
           <option name="url" value="http://rock5b-gitlab.tocmcc.cn" />
           <option name="userName" value="root" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://18.167.76.210:65080" />
+          <option name="userName" value="root" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/Volumes/USB/IdeaProject" />
