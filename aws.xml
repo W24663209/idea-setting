@@ -14,4 +14,18 @@
       </list>
     </option>
   </component>
+  <component name="updateLambdaState">
+    <option name="configs">
+      <map>
+        <entry key="arn:aws:lambda:ap-south-1:182408877779:function:lambda-api">
+          <value>
+            <UpdateConfig>
+              <option name="bucketName" value="wei-lambda-api" />
+              <option name="ecrRepo" value="arn:aws:ecr:ap-south-1:182408877779:repository/test-lambda" />
+            </UpdateConfig>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
 </application>
